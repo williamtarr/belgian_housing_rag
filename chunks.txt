@@ -1,0 +1,2541 @@
+
+
+--- Chunk 1 ---
+nouveau plan comptable pour
+les associations des coproprietaires
+Bulletin
+CNC
+63
+Commission des Normes Comptables
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 1 28/11/12 11:36
+Preface
+En aout 2012 le plan comptable des associations de coproprietaires
+a ete publie au Moniteur belge.
+Ce plan comptable normalise sapplique a toute copropriete,
+sauf a celle qui comporte moins de vingt lots, a lexclusion des caves,
+garages et parkings. Ces coproprietes  plus petites  sont autorisees
+
+--- Chunk 2 ---
+de tenir une comptabilite simplifiee. La nature de la comptabilite
+qui doit etre tenue depend par consequent de la taille de lassociation
+de coproprietaires et ainsi de lampleur des flux financiers geres par
+ces associations.
+Le plan comptable normalise, elabore par arrete royal en etroite
+collaboration avec la Commission des Normes Comptables,
+est adapte a la nature des associations de coproprietaires et assure,
+conformement a la volonte du legislateur, la tenue dune comptabilite
+
+--- Chunk 3 ---
+uniforme, transparente et accessible aux coproprietaires. Larrete
+royal refere egalement aux regles usuelles de la comptabilite
+en partie double qui sont indispensables pour une comptabilite coherente,
+fidele et stable.
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 2 28/11/12 11:36
+Naturellement, lintroduction dun nouveau plan comptable demande
+une adaptation de la part des syndics. Utilisons des lors cette brochure
+
+--- Chunk 4 ---
+comme fil conducteur de sorte quil devienne clair que la tenue dune
+comptabilite en partie double ne peut pas poser des problemes pour
+le syndic non professionnel non plus. La transparence et le caractere
+uniforme de ce systeme comptable encou-
+rage en outre la securite juridique des
+coproprietaires en permettant un controle
+plus approfondi des obligations comptables
+du syndic. Ceci aura pour consequence que
+les contestations des coproprietaires a
+legard du syndic concernant la comptabilite
+
+--- Chunk 5 ---
+legard du syndic concernant la comptabilite
+tenue par celui, diminueront.
+Jespere, tout comme le legislateur, que
+lusage de ce plan comptable normalise
+aboutira a une relation amelioree et
+plus equilibree entre le syndic et les
+coproprietaires, dans linteret de chacun.
+Annemie TurTelboom
+ministre de la Justice
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 3 28/11/12 11:36
+Table des maTieres
+exemple chiffre relatif au plan comptable G Entretien de lascenseur 25
+
+--- Chunk 6 ---
+minimum normalise pour les associations de H Achat dune tondeuse autotractee 27
+coproprietaires fixe par larrete royal du 12
+I Service d interets 29
+juillet 2012 (avis 2012/14) 5
+J Amortissement de la tondeuse autotrac-
+I Introduction 5
+tee 31
+II Comptabilite en partie double 6
+K Transfert de fonds de roulement et de
+III Le plan comptable minimum normalise 7 reserve en fin dexercice 20N1 33
+A Les comptes de la classe 18
+Annexes
+B Les comptes de la classe 2 8
+
+--- Chunk 7 ---
+Annexes
+B Les comptes de la classe 2 8
+Legislation pertinente de lavis 2012/14 37
+C Les comptes de la classe 4 8
+Annexe 1 37
+D Les comptes de la classe 5 9
+Les articles 577-2 jusqua 577-14 inclus du
+E Les comptes de la classe 6 9
+Code civil, avec les modifications apportees
+F Les comptes de la classe 7 9 par la loi du 2 juin 2010 (version consolidee)
+IV Exemple 9 Annexe 2 52
+A Appel dacomptes sur les fonds de Arrete royal du 12 juillet 2012 fixant un plan
+
+--- Chunk 8 ---
+roulement et de reserve 10 comptable minimum normalise pour
+B Livraisons de mazout 14 les associations de coproprietaires
+C Appel complementaire de fonds de Annexe 3 59
+roulement 16 Articles pertinents de larrete royal du
+D Achat dun aspirateur 18 30 janvier 2001 portant execution du code
+E Transfert des fonds de roulement et de des societes (voir article 9 de lAR du
+reserve en fin dexercice 20N0 20 12 juillet 2012)
+F Ouverture du nouvel exercice 20N1 23
+
+--- Chunk 9 ---
+F Ouverture du nouvel exercice 20N1 23
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 4 28/11/12 11:36
+Exemple chiffre relatif au plan comptable minimum normalise pour les
+associations de coproprietaires fixe par larrete royal du 12 juillet 2012
+(avis 2012/14)
+Avis du 5 septembre 2012 de la Commission des Normes Comptables
+I. Introduction
+1 La copropriete ou la propriete dune chose qui appartient indivisement a plusieurs personnes
+
+--- Chunk 10 ---
+est regie par les articles 577-2 a 577-14 du Code civil (ci-apres : C civ) Le coproprietaire participe
+aux droits et aux charges de la propriete en proportion de sa part(1) Chacun des coproprietaires
+contribue aux depenses utiles de conservation et dentretien, ainsi quaux frais dadministration,
+impots et autres charges de la chose commune(2)
+2 Pour cette raison, il est extremement important, en presence dune copropriete, que les
+
+--- Chunk 11 ---
+comptes soient tenus de maniere precise, correcte et transparente La loi du 2 juin 2010
+modifiant le Code civil afin de moderniser le fonctionnement des coproprietes et daccroitre
+la transparence de leur gestion(3) rappelle au syndic sa responsabilite dans cette matiere Quelle
+que soit la competence qui lui est accordee par le reglement de la copropriete, le syndic a pour
+mission de tenir les comptes de lassociation des coproprietaires de maniere claire, precise et
+
+--- Chunk 12 ---
+detaillee suivant le plan comptable minimum normalise a etablir par le Roi(4) Toute copropriete
+de moins de vingt lots a lexclusion des caves, des garages et parkings est toutefois autorisee
+a tenir une comptabilite simplifiee Cette comptabilite simplifiee reflete au minimum les recettes
+et les depenses, la situation de tresorerie ainsi que les mouvements des disponibilites en especes
+et en compte, le montant du fonds de roulement(5) et du fonds de reserve(6), les creances et les
+
+--- Chunk 13 ---
+dettes des coproprietaires
+La nature de la comptabilite qui doit etre tenue dependra par consequent de la taille de lassocia-
+tion des coproprietaires et ainsi de lampleur des flux financiers generes par cette association
+1 Article 577-2,  3 C civ
+2 Article 577-2,  7 C civ
+3 MB 26 juin 2010
+4 Article 577-8,  4 , 17 C civ
+5 On entend par  fonds de roulement , la somme des avances faites par les coproprietaires, a titre de provision, pour couvrir les
+
+--- Chunk 14 ---
+depenses periodiques telles que les frais de chauffage et declairage des parties communes, les frais de gerance et de concierge-
+rie (article 577-11,  5)
+6 On entend par  fonds de reserve , la somme des apports de fonds periodiques destines a faire face a des depenses non perio-
+diques, telles que celles occasionnees par le renouvellement du systeme de chauffage, la reparation ou le renouvellement dun
+ascenseur ou la pose dune nouvelle chape de toiture (article 577-11,  5)
+5
+
+--- Chunk 15 ---
+5
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 5 28/11/12 11:36
+3 Toute copropriete de vingt lots ou plus a lexclusion des caves, des garages et des parkings
+doit tenir une comptabilite faisant usage dun plan comptable minimum normalise adapte
+a la nature des associations de coproprietaires Larticle 577-8,  4, 17, du Code civil confie
+au Roi letablissement dun plan comptable minimum normalise pour les associations de
+
+--- Chunk 16 ---
+coproprietaires Ce plan a entre-temps ete publie en annexe a larrete royal du 12 juillet 2012
+fixant un plan comptable minimum normalise pour les associations de coproprietaires(7), assurant
+de la sorte aux associations de coproprietaires la tenue dune comptabilite uniforme, transparente
+et accessible aux coproprietaires et permettant en outre a tout moment la consultation du
+compte individuel de chaque coproprietaire
+II. Comptabilite en partie double
+
+--- Chunk 17 ---
+II. Comptabilite en partie double
+4 En vue de tenir la comptabilite de lassociation des coproprietaires de maniere claire, precise
+et detaillee, il simpose dappliquer les regles usuelles de la comptabilite en partie double(8)
+Les operations sont inscrites sans retard, de maniere fidele et complete et par ordre de dates,
+soit dans un livre journal unique soit dans un journal auxiliaire unique ou subdivise en journaux
+
+--- Chunk 18 ---
+specialises Ces operations sont methodiquement transposees dans les comptes quelles
+concernent(9)
+5 Linventaire donne un apercu de la nature et le montant des avoirs et des droits de
+lassociation des coproprietaires ainsi que ses dettes et engagements au jour de la cloture
+de lexercice Il en va de meme pour la nature et le montant des charges et des produits de
+lexercice cloture a cette date
+6 Toute compensation entre des avoirs et des dettes, entre des droits et des engagements,
+
+--- Chunk 19 ---
+entre des charges et des produits est interdite
+7 Chaque element du patrimoine doit faire lobjet dune evaluation distincte Ces evaluations
+doivent repondre aux criteres de prudence, de sincerite et de bonne foi
+8 Il doit etre tenu compte de tous les risques previsibles, des pertes eventuelles et des
+depreciations qui ont pris naissance au cours de lexercice auquel linventaire se rapporte ou
+au cours dexercices precedents, meme si ces risques, pertes ou depreciations ne sont connus
+
+--- Chunk 20 ---
+quentre la date de cloture des comptes annuels et la date a laquelle linventaire est etabli
+7 MB 3 aout 2012
+8 Article 9 de larrete royal du 12 juillet 2012 fixant un plan comptable minimum normalise pour les associations de coproprietaires
+9 Article 3, alinea 2 de larrete royal fixant un plan comptable minimum normalise pour les associations de coproprietaires
+6
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 6 28/11/12 11:36
+
+--- Chunk 21 ---
+9 Il doit etre tenu compte des charges et des produits qui concernent lexercice ou
+des exercices precedents, sans consideration de la date de paiement ou dencaissement
+de ces charges et produits, sauf si lencaissement effectif de ces produits est incertain
+10 Le petit outillage qui est constamment renouvele et dont la valeur dacquisition est
+negligeable peut etre porte a lactif pour une valeur fixe, si sa quantite, sa valeur et sa composi-
+
+--- Chunk 22 ---
+tion ne varient pas sensiblement dun exercice a lautre Dans ce cas, le prix du renouvellement
+de ces elements est directement porte sous les charges dexploitation
+11 Larrete royal prevoit que les elements de lactif (par exemple lachat dune tondeuse
+autoportee ou une nouvelle installation de filtration pour la piscine) sont evalues a leur prix
+dacquisition et sont portes a linventaire pour cette meme valeur, deduction faite des amortisse-
+
+--- Chunk 23 ---
+ments y afferents De cette facon, le cout dacquisition de ces immobilisations est reparti sur
+leur duree dutilite ou dutilisation probable Il est evident que seules les immobilisations dont
+la valeur dacquisition est significative doivent etre enregistrees comme immobilisations
+Si ces biens ne sont pas enregistres comme immobilisations cela ne peut donner une image
+alteree du patrimoine de lassociation des coproprietaires Les immobilisations dont la valeur
+
+--- Chunk 24 ---
+dacquisition est significative peuvent directement etre prises en charges
+12 Les creances sont portees a linventaire a leur valeur nominale Les creances a plus dun an
+et a un an au plus font lobjet de reductions de valeur si leur remboursement a lecheance est
+en tout ou en partie incertain ou compromis
+13 Les placements de tresorerie et les liquidites font egalement lobjet de reductions de
+valeur lorsque leur valeur de realisation a la date de cloture de lexercice est inferieure a leur
+
+--- Chunk 25 ---
+valeur nominale
+III. Le plan comptable minimum normalise
+14 Les comptes du plan comptable peuvent etre subdivises en plusieurs classes
+Cette subdivision tente de secarter le moins possible de celle arretee pour les entreprises (10)
+ou associations sans but lucratif(11) mais, au besoin, adaptee au caractere specifique
+des associations de coproprietaires
+10 Tel que prevu dans larrete royal du 12 septembre 1983 determinant la teneur et la presentation dun plan comptable minimum
+normalise
+
+--- Chunk 26 ---
+normalise
+11 Tel que prevu dans lannexe a larrete royal du 19 decembre 2003 relatif aux obligations comptables et a la publicite des comptes
+annuels de certaines associations sans but lucratif, associations internationales sans but lucratif et fondations
+7
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 7 28/11/12 11:36
+A. les compTes de lA clAsse 1
+15 Ces comptes concernent les dettes de lassociation de coproprietaires a echeance residuelle
+de plus dun an
+
+--- Chunk 27 ---
+de plus dun an
+b. les compTes de lA clAsse 2
+16 Sous les comptes des immobilisations sont portees toutes les immobilisations possibles
+detenues par lassociation de coproprietaires (par exemple une licence de logiciel, une cireuse
+ou une tondeuse autoportee) La valeur dacquisition initiale est portee sous un compte 2 qui
+se termine par  0 , les amortissements actes sous un compte 2 qui se termine par  9
+
+--- Chunk 28 ---
+Le traitement comptable de ce type dinvestissement ainsi que son amortissement sont illustres
+par lexemple chiffre repris dans le present avis
+Les cautions payees par lassociation de coproprietaires sont egalement portees sous un compte
+de la classe 2
+c. les compTes de lA clAsse 4
+17 Il sagit des creances et des dettes des associations de coproprietaires a encaisser ou
+a payer au cours de lexercice suivant Sont par exemple portes sous ces comptes, les appels
+
+--- Chunk 29 ---
+dacomptes sur les fonds de reserve et de roulement adresses aux coproprietaires mais non
+encore verses En cas dexcedent de fonds verses en fin dexercice, ce solde est reporte a lexercice
+suivant Le traitement comptable applique est illustre par lexemple repris dans le present avis
+En principe, les comptes de dettes Valeurs reportees fonds de reserve et de roulement peuvent
+ne presenter quun solde crediteur Lassociation de coproprietaires doit prendre soin quil y
+
+--- Chunk 30 ---
+ait suffisamment de fonds de reserve et de roulement pour assurer le fonctionnement de
+lassociation
+Il se recommande que les comptes de creances et de dettes soient divises pour chaque lot (12)
+Ainsi il est possible de suivre le montant individuel pour chaque lot, tant pour ce qui est
+des fonds de reserve que pour les fonds de roulement
+Les comptes de regularisation sont egalement des comptes de la classe 4 Celle-ci comprend
+
+--- Chunk 31 ---
+les comptes qui peuvent etre utilises pour rattacher des charges et produits a lexercice auquel ils
+se rapportent, quel que soit le moment de leur paiement
+12 Par la creation de sous-comptes
+8
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 8 28/11/12 11:36
+d. les compTes de lA clAsse 5
+18 Les fonds disponibles de lassociation de coproprietaires sont portes sous les comptes de
+la classe 5 tout comme les acomptes appeles et verses sur les fonds de reserve et de roulement
+
+--- Chunk 32 ---
+Sur la base de larticle 577-8,  4, 5 ils sont obligatoirement portes sous des comptes separes :
+un compte pour le fonds de roulement et un compte pour les fonds de reserve(13)
+e. les compTes de lA clAsse 6
+19 Sous les comptes de la classe 6 sont portees les charges En raison du caractere specifique
+des associations de coproprietaires, le plan comptable minimum normalise prevoit une subdivi-
+sion detaillee
+F. les compTes de lA clAsse 7
+
+--- Chunk 33 ---
+sion detaillee
+F. les compTes de lA clAsse 7
+20 Les acomptes recus des coproprietaires ainsi que les produits des associations de coproprie-
+taires, comme les produits financiers (interets sur placements de tresorerie) sont portes sous les
+comptes de la classe 7
+IV. Exemple
+21 Dans le present avis la Commission des Normes Comptables vise a illustrer a laide dun
+exemple lusage de certains comptes du plan comptable minimum normalise pour les associa-
+tions de coproprietaires
+
+--- Chunk 34 ---
+tions de coproprietaires
+Dans le present exemple, nous partirons dune co-propriete de 40 lots Le syndic se verra par
+consequent oblige de tenir une comptabilite en partie double de maniere claire, precise et detail-
+lee suivant le plan comptable minimum normalise tel que repris a larrete royal du 12 juillet 2012
+fixant un plan comptable minimum normalise pour les associations de coproprietaires Dans le
+
+--- Chunk 35 ---
+present exemple, on suppose pour la simplicite que chaque lot est identique et constitue ainsi
+une part egale de la copropriete, de sorte quil nest pas necessaire de calculer des montants
+separes pour chaque lot
+13 Tous ces comptes doivent etre ouverts au nom de lassociation des coproprietaires
+9
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 9 28/11/12 11:36
+A. Appel dAcompTes sur les Fonds de roulemenT eT de reserve
+
+--- Chunk 36 ---
+Le syndic de lassociation de coproprietaires appelle au debut de lexercice 20N0 24000 euros
+de fonds de reserve (600 euros le lot) et 20000 euros de fonds de roulement (500 euros le lot)
+Le plan comptable de lassociation de coproprietaires a ete etendu par la creation de sous-
+comptes (option facultative), permettant de la sorte la consultation a tout moment des acomptes
+deja verses sur les fonds de roulement et de reserve de chaque coproprietaire
+
+--- Chunk 37 ---
+Le traitement comptable au moment de lappel des fonds de reserve aux 40 coproprietaires
+(24000 euros au total) sera le suivant :
+410001 Acompte de fonds de reserve appele (lot 1) jusqua
+410040 Acompte de fonds de reserve appele (lot 40) 24000
+a 700 Acomptes fonds de reserve 24000
+Le traitement comptable au moment de lappel du fonds de roulement aux 40 coproprietaires
+(20000 euros au total) sera le suivant :
+410101 Acompte de fonds de roulement appele (lot 1) jusqua
+
+--- Chunk 38 ---
+410140 Acompte de fonds de reserve appele (lot 40) 20000
+a 701 Acomptes fonds de roulement 20000
+Lappel de ces acomptes est enregistre dans la comptabilite de lassociation de coproprietaires
+comme des produits (en utilisant les comptes de la classe 7) Ces produits seront portes sous
+le compte de resultats
+Compte de resultats
+ChArgEs ProduIts
+Acomptes fonds de reserve 24000
+Acomptes fonds de roulement 20000
+Total 0 Total 44000
+10
+
+--- Chunk 39 ---
+Total 0 Total 44000
+10
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 10 28/11/12 11:36
+Le solde de ces comptes utilises par lassociation de coproprietaires peut etre consulte a laide
+de lapercu suivant (la balance de verification et par soldes bien connue dans la pratique de la
+comptabilite en partie double) :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 0 24000 0
+jusqua de reserve appele
+
+--- Chunk 40 ---
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 20000 0 20000 0
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+Total classe 1 a 5 44000 0 44000 0
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 0 44000 0 44000
+TOTAL 44000 44000 44000 44000
+Si un inventaire est etabli a ce moment, le solde du compte de resultats sera represente en
+
+--- Chunk 41 ---
+resume au passif de linventaire Cela resulte en une augmentation de fonds ou une ressource
+de fonds (si les produits depassent les charges) ou une diminution ou un emploi de fonds (si les
+charges depassent les produits) Etant donne que lassociation de coproprietaires ne dispose
+pas de fonds propres effectifs, ceci se traduira dans linventaire etabli en fin dexercice comme
+une dette ou une creance sur les coproprietaires (cf. infra)
+Inventaire
+ACtIf PAssIf
+Creance fonds de reserve 24000 Produits
+
+--- Chunk 42 ---
+Creance fonds de reserve 24000 Produits
+Creance fonds de roulement 20000 - Acompte de fonds de reserve 24000
+- Acompte de fonds de roulement 20000
+Total 44000 Total 44000
+11
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 11 28/11/12 11:36
+En vertu de larticle 577-8,  4, 5 C civ ces fonds doivent, au moment de leur paiement, etre
+integralement verses sur divers comptes, dont obligatoirement un compte distinct pour le fonds
+
+--- Chunk 43 ---
+de roulement (sur la base dun plan comptable minimum normalise : le compte 551) et un
+compte distinct pour les fonds de reserve (compte 550) Tous ces comptes doivent etre ouverts
+au nom de lassociation des coproprietaires
+Au moment du paiement de lacompte par les coproprietaires, les ecritures suivantes sont passees :
+appel dacompte de fonds de reserve et de roulement a verser par le(s) coproprietaire(s) du lot 1 :
+550 Etablissement de credit : fonds de reserve 600
+
+--- Chunk 44 ---
+a 410001 Acompte de fonds de reserve appele 600
+551 Etablissement de credit : fonds de roulement 500
+a 410101 Acompte de fonds de roulement appele 500
+appel dacompte de fonds de reserve et de roulement a verser par le(s) coproprietaire(s) du lot 2 :
+550 Etablissement de credit : fonds de reserve 600
+a 410002 Acompte de fonds de reserve appele 600
+551 Etablissement de credit : fonds de roulement 500
+a 410102 Acompte de fonds de roulement appele 500
+
+--- Chunk 45 ---
+a 410102 Acompte de fonds de roulement appele 500
+appel dacompte de fonds de reserve et de roulement a verser par le(s) coproprietaire(s) du lot 3 :
+550 Etablissement de credit : fonds de reserve 600
+a 410003 Acompte de fonds de reserve appele 600
+551 Etablissement de credit : fonds de roulement 500
+a 410103 Acompte de fonds de roulement appele 500
+Les memes ecritures sont passees au moment ou les coproprietaires des lots 4 jusqua 40 versent
+leur acompte
+
+--- Chunk 46 ---
+leur acompte
+A la suite de ces versements, le solde des comptes utilises par cette association de coproprietaires
+est modifie comme suit :
+12
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 12 28/11/12 11:36
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 24000 0 0
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 20000 20000 0 0
+jusqua de roulement appele
+
+--- Chunk 47 ---
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+550 Etablissement de credit : 24000 0 24000 0
+Fonds de reserve
+551 Etablissement de credit : 20000 0 20000 0
+Fonds de roulement
+Total classe 1 a 5 88000 44000 44000 0
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 0 44000 0 44000
+TOTAL 88000 88000 44000 44000
+Si un inventaire est etabli a ce moment, il donnera au moment ou tous les coproprietaires auront
+
+--- Chunk 48 ---
+paye, les informations suivantes :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 24000 Produits
+Etablissement de credit : Fonds de 20000 - Acompte de fonds 24000
+roulement de reserve
+- Acompte de fonds 20000
+de roulement
+Total 44000 Total 44000
+De lavis de la Commission, il est recommandable de suivre les appels de maniere extra-comp-
+table pour ainsi pouvoir dresser linventaire de la partie encore restante en fonds de reserve et de
+
+--- Chunk 49 ---
+roulement pour chaque lot (voir egalement infra)
+13
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 13 28/11/12 11:36
+b. livrAisons de mAzouT
+Il y a livraison de mazout pour un montant de 5000 euros Cette livraison est payee avec le fonds
+de roulement
+Reception de la facture du fournisseur :
+61232 Livraisons mazout 5000
+a 440 Fournisseurs 5000
+Paiement de la facture :
+440 Fournisseurs 5000
+a 551 Etablissement de credit : Fonds de roulement 5000
+
+--- Chunk 50 ---
+Lassociation de coproprietaires a expose des frais a concurrence de 5000 euros Cette charge est
+portee au compte de resultats
+Compte de resultats
+ChArgEs ProduIts
+Livraisons mazout 5000 Acomptes fonds de reserve 24000
+Acomptes fonds de roulement 20000
+Total 5000 Total 44000
+14
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 14 28/11/12 11:36
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+
+--- Chunk 51 ---
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 24000 0 0
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 20000 20000 0 0
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+440 Fournisseurs 5000 5000 0 0
+550 Etablissement de credit : 24000 0 24000 0
+Fonds de reserve
+551 Etablissement de credit : 20000 5000 15000 0
+Fonds de roulement
+
+--- Chunk 52 ---
+Fonds de roulement
+Total classe 1 a 5 93000 54000 39000 0
+61232 Livraisons mazout 5000 0 5000
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 5000 44000 5000 44000
+TOTAL 98000 98000 44000 44000
+15
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 15 28/11/12 11:36
+Si un inventaire est etabli a ce moment, lenregistrement de cette charge affecterait linventaire
+comme suit :
+Inventaire
+ACtIf PAssIf
+
+--- Chunk 53 ---
+comme suit :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 24000 Produits
+Etablissement de credit : Fonds de 15000 - Acompte de fonds de 24000
+roulement reserve
+- Acompte de fonds de 20000
+roulement
+Charges
+- Livraisons mazout (5000)
+Total 39000 Total 39000
+De lavis de la Commission, il est recommandable de suivre egalement les charges supportees
+par lassociation de maniere extra-comptable de sorte que lassociation peut donner a la fin
+
+--- Chunk 54 ---
+de chaque periode de rapport une representation detaillee correcte pour chaque lot de la dette
+encore restante en fonds de reserve et de roulement (voir egalement supra) Ces informations
+peuvent difficilement etre tenues dans une comptabilite generale puisque celles-ci rendent
+compte de la nature des charges et pas du centre de cout
+c. Appel complemenTAire de Fonds de roulemenT
+Le syndic decide de lancer un appel complementaire de fonds de roulement a concurrence de
+
+--- Chunk 55 ---
+5000 euros (125 euros le lot) :
+Appel de fonds de roulement aux 40 coproprietaires :
+410101 Acompte de fonds de roulement appele (lot 1) jusqua
+410140 Acompte de fonds de roulement appele (lot 40) 5000
+a 701 Acomptes fonds de roulement 5000
+Lappel de cet acompte est enregistre dans la comptabilite de lassociation de coproprietaires
+comme un produit Ce produit est porte au compte de resultats
+16
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 16 28/11/12 11:36
+Compte de resultats
+
+--- Chunk 56 ---
+Compte de resultats
+ChArgEs ProduIts
+Livraisons mazout 5000 Acomptes fonds de reserve 24000
+Acomptes fonds de roulement 25000
+Total 5000 Total 49000
+Versement de lacompte par les coproprietaires (40 fois) :
+551 Etablissements de credit : Fonds de roulement 125
+a 410101 Acompte de fonds de roulement appele (lot 1) jusqua
+410140 Acompte de fonds de roulement appele (lot 40) 125
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprietaires
+
+--- Chunk 57 ---
+est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 24000 0 0
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 25000 25000 0 0
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+440 Fournisseurs 5000 5000 0 0
+550 Etablissement de credit : 24000 0 24000 0
+Fonds de reserve
+551 Etablissement de credit : 25000 5000 20000 0
+Fonds de roulement
+
+--- Chunk 58 ---
+Fonds de roulement
+Total classe 1 a 5 103000 59000 44000 0
+61232 Livraisons mazout 5000 0 5000 0
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 25000 0 25000
+de roulement
+Total classe 6 et 7 5000 49000 5000 49000
+TOTAL 108000 108000 49000 49000
+17
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 17 28/11/12 11:36
+Si un inventaire est etabli a ce moment, il donnera au moment ou tous les coproprietaires auront
+paye, les informations suivantes :
+Inventaire
+
+--- Chunk 59 ---
+paye, les informations suivantes :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 24000 Produits
+Etablissement de credit : Fonds de 20000 - Acompte de fonds de 24000
+roulement reserve
+- Acompte de fonds de 25000
+roulement
+Charges
+- Livraisons mazout (5000)
+Total 44000 Total 44000
+d. AchAT dun AspirATeur
+Lassociation de coproprietaires decide dacheter un aspirateur pour le nettoyage de la piscine
+
+--- Chunk 60 ---
+pour un montant de 500 euros Lassemblee generale est davis que cette valeur dacquisition
+nest pas significative et elle decide dinscrire lachat de laspirateur directement en charges
+Etant donne quil ne sagit pas dune depense periodique, le montant sera porte sous le fonds
+de reserve
+Reception de la facture du fournisseur :
+61082 Autre entretien piscine/installations techniques 500
+a 440 Fournisseurs 500
+Paiement de la facture :
+440 Fournisseurs 500
+
+--- Chunk 61 ---
+Paiement de la facture :
+440 Fournisseurs 500
+a 550 Etablissement de credit : Fonds de reserve 500
+A la suite de cet achat, lassociation de coproprietaires a expose des frais a concurrence de
+500 euros Cette charge est portee au compte de resultats
+18
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 18 28/11/12 11:36
+Compte de resultats
+ChArgEs ProduIts
+Livraisons mazout 5000 Acomptes fonds de reserve 24000
+Entretien piscine 500 Acomptes fonds de roulement 25000
+
+--- Chunk 62 ---
+Total 5500 Total 49000
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 24000 0 0
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 25000 25000 0 0
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+440 Fournisseurs 5500 5500 0 0
+
+--- Chunk 63 ---
+440 Fournisseurs 5500 5500 0 0
+550 Etablissement de credit : 24000 500 23500 0
+Fonds de reserve
+551 Etablissement de credit : 25000 5000 20000 0
+Fonds de roulement
+Total classe 1 a 5 103500 60000 43500 0
+61082 Autre entretien piscine 500 0 500 0
+61232 Livraisons mazout 5000 0 5000 0
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 25000 0 25000
+de roulement
+Total classe 6 et 7 5500 49000 5500 49000
+TOTAL 109000 109000 49000 49000
+19
+
+--- Chunk 64 ---
+TOTAL 109000 109000 49000 49000
+19
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 19 28/11/12 11:36
+Si un inventaire est etabli a ce moment, il presentera, compte tenu de la compensation au niveau
+du compte de resultats, les montants suivants :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 23500 Produits
+Etablissement de credit : Fonds de 20000 - Acompte de fonds de 24000
+roulement reserve
+- Acompte de fonds de 25000
+roulement
+Charges
+
+--- Chunk 65 ---
+- Acompte de fonds de 25000
+roulement
+Charges
+- Livraisons mazout (5000)
+- Entretien piscine (500)
+Total 43500 Total 43500
+e. TrAnsFerT des Fonds de roulemenT eT de reserve en Fin dexercice 20n0
+A la fin de lexercice 20N0, les comptes doivent etre clotures Lorsquil ressort du compte de
+resultats que le montant des appels dacompte adresses aux coproprietaires ou des produits
+(au total, 24000 euros de fonds de reserve et 25000 de fonds de roulement) depasse le montant
+
+--- Chunk 66 ---
+des charges de lexercice (5500 euros), le solde (43500 euros) sera enregistre comme une dette
+envers les coproprietaires Lassociation de coproprietaires ne peut avoir dautre patrimoine
+que les meubles necessaires a laccomplissement de son objet, qui consiste exclusivement dans
+la conservation et ladministration de limmeuble ou du groupe dimmeubles batis(14) En cas
+de transmission de la propriete dun lot, la quote-part dans le fonds de reserve detenue par le
+
+--- Chunk 67 ---
+coproprietaire sortant creancier reste toutefois la propriete de lassociation(15) Afin deviter tout
+equivoque, une distinction est faite entre le fonds de reserve a reporter, dune part, et le fonds
+de roulement a reporter, dautre part
+693 Valeurs a reporter 43500
+a 48901 Dettes : valeurs reportees fonds de reserve 23500
+48902 Dettes : valeurs reportees fonds de roulement 20000
+14 Article 577-5,  3 C civ
+15 Article 577-11,  5 , 2 C civ
+20
+
+--- Chunk 68 ---
+15 Article 577-11,  5 , 2 C civ
+20
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 20 28/11/12 11:36
+A lissue du transfert du solde du compte de resultats a linventaire, le compte de resultats se
+presente comme suit :
+Compte de resultats
+ChArgEs ProduIts
+Livraisons mazout 5000 Acomptes fonds de reserve 24000
+Entretien piscine 500 Acomptes fonds de roulement 25000
+Solde reporte 43500
+Total 49500 Total 49000
+21
+
+--- Chunk 69 ---
+Solde reporte 43500
+Total 49500 Total 49000
+21
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 21 28/11/12 11:36
+A la suite du transfert du solde du compte de resultats a linventaire, le solde des comptes utilises
+par cette association de coproprietaires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+410001 Acompte de fonds 24000 24000 0 0
+jusqua de reserve appele
+410040 (lot 1 jusqua lot 40 inclus)
+
+--- Chunk 70 ---
+410040 (lot 1 jusqua lot 40 inclus)
+410101 Acompte de fonds 25000 25000 0 0
+jusqua de roulement appele
+410140 (lot 1 jusqua lot 40 inclus)
+48901 Valeurs reportees fonds 5500 5500 0 0
+de reserve
+48902 Valeurs reportees fonds 0 23500 0 23500
+de roulement
+440 Fournisseurs 0 20000 0 20000
+550 Etablissement de credit : 24000 500 23500 0
+Fonds de reserve
+551 Etablissement de credit : 25000 5000 20000 0
+Fonds de roulement
+Total classe 1 a 5 103500 103500 43500 43500
+
+--- Chunk 71 ---
+Total classe 1 a 5 103500 103500 43500 43500
+61082 Autre entretien piscine 500 0 500 0
+61232 Livraisons mazout 5000 0 5000 0
+693 Valeurs a reporter 43500 0 43500 0
+700 Acomptes fonds 0 24000 0 24000
+de reserve
+701 Acomptes fonds 0 25000 0 25000
+de roulement
+Total classe 6 et 7 49000 49000 49000 49000
+TOTAL 152500 152500 92500 92500
+22
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 22 28/11/12 11:36
+
+--- Chunk 72 ---
+Apres compensation au niveau du compte de resultats, linventaire se presente en fin dexercice
+20N0, comme suit :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de 23500 Dettes : valeurs reportees 23500
+reserve fonds de reserve
+Etablissement de credit : Fonds de 20000 Dettes : valeurs reportees 20000
+roulement fonds de roulement
+Total 43500 Total 43500
+Comme deja indique ci-avant, il est preferable de diviser les comptes de passif divers par lot de
+
+--- Chunk 73 ---
+sorte que chaque solde a la fin de chaque periode de rapport presente la dette correcte en fonds
+de reserve et de roulement pour chaque lot
+F. ouverTure du nouvel exercice 20n1
+Au debut de lexercice suivant, cette dette est directement transferee et les acomptes verses sont
+ajoutes respectivement au fonds de reserve et au fonds de roulement
+48901 Dettes : valeurs reportees fonds de reserve 23500
+48902 Dettes : valeurs reportees fonds de roulement 20000
+a 700 Acomptes fonds de reserve 23500
+
+--- Chunk 74 ---
+a 700 Acomptes fonds de reserve 23500
+701 Acomptes fonds de roulement 20000
+Ces acomptes sont a nouveau repris dans le compte de resultats de 20N1 comme un produit
+De cette facon, la comptabilite devient pour lassociation de coproprietaires un instrument utile
+avec lequel il est possible de verifier dans quelle mesure les charges sont couvertes par les
+montants deja appeles
+Compte de resultats
+ChArgEs ProduIts
+Acomptes fonds de reserve 23500
+Acomptes fonds de roulement 20000
+Total 0 Total 43500
+
+--- Chunk 75 ---
+Total 0 Total 43500
+23
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 23 28/11/12 11:36
+Le solde des comptes utilises par cette association de coproprietaires modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+48901 Valeurs reportees fonds 23500 23500 0 0
+de reserve
+48902 Valeurs reportees fonds 20000 20000 0 0
+de roulement
+550 Etablissement de credit : 23500 0 23500 0
+Fonds de reserve
+
+--- Chunk 76 ---
+Fonds de reserve
+551 Etablissement de credit : 20000 0 20000 0
+Fonds de roulement
+Total classe 1 a 5 87000 43500 43500 0
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 0 43500 0 43500
+TOTAL 87000 87000 43500 43500
+Linventaire a louverture du nouvel exercice se presente comme suit :
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 23500 Produits
+
+--- Chunk 77 ---
+Etablissement de credit : Fonds de 20000 - Acompte de fonds de 23500
+roulement reserve
+- Acompte de fonds de 20000
+roulement
+Total 43500 Total 43500
+24
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 24 28/11/12 11:36
+G. enTreTien de lAscenseur
+Lascenseur a besoin dun grand entretien necessitant lintervention dun technicien Pour les
+services prestes, ce dernier envoie une facture de 1200 euros
+Reception de la facture du fournisseur :
+61011 Contrat dentretien ascenseurs 1200
+
+--- Chunk 78 ---
+61011 Contrat dentretien ascenseurs 1200
+a 440 Fournisseurs 1200
+Paiement de la facture :
+440 Fournisseurs 1200
+a 551 Etablissement de credit : Fonds de roulement 1200
+Reprise de la charge au compte de resultats
+Compte de resultats
+ChArgEs ProduIts
+Contrat dentretien ascenseur 1200 Acomptes fonds de reserve 23500
+Acomptes fonds de roulement 20000
+Total 1200 Total 43500
+25
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 25 28/11/12 11:36
+
+--- Chunk 79 ---
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+440 Fournisseurs 1200 1200 0 0
+48901 Valeurs reportees fonds 23500 23500 0 0
+de reserve
+48902 Valeurs reportees fonds 20000 20000 0 0
+de roulement
+550 Etablissement de credit : 23500 0 23500 0
+Fonds de reserve
+551 Etablissement de credit : 20000 1200 18800 0
+Fonds de roulement
+
+--- Chunk 80 ---
+Fonds de roulement
+Total classe 1 a 5 88200 45900 42300 0
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 1200 43500 1200 43500
+TOTAL 89400 89400 43500 43500
+Si un inventaire est etabli entre-temps, il presentera les montants suivants :
+26
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 26 28/11/12 11:36
+Inventaire
+ACtIf PAssIf
+
+--- Chunk 81 ---
+Inventaire
+ACtIf PAssIf
+Etablissement de credit : Fonds de reserve 23500 Produits
+Etablissement de credit : Fonds de 18800 - Acompte de fonds de 23500
+roulement reserve
+- Acompte de fonds de 20000
+roulement
+Charges
+- Entretien ascenseur (1200)
+Total 42300 Total 42300
+h. AchAT dune Tondeuse AuToTrAcTee
+Lassociation de coproprietaires achete une tondeuse autotractee pour un montant de 2800
+euros Sur la base de la facture dachat, la valeur dacquisition de la tondeuse autotractee
+
+--- Chunk 82 ---
+est comptabilisee sur un sous-compte du compte 23 Installations, machines et outillage, qui se
+termine par 0
+Reception de la facture du fournisseur :
+230 Installations, machines et outillage  tondeuse autotractee : valeur dacquisition 2800
+a 440 Fournisseurs 2800
+Lachat de la tondeuse autotractee constitue un investissement pour lassociation des coproprie-
+taires En dautres termes, le prix dachat nest pas pris en charge au moment de lachat, mais
+
+--- Chunk 83 ---
+au moment de son amortissement Ainsi le compte de resultats nest pas modifie a la suite
+de cet achat
+Paiement de la facture :
+440 Fournisseurs 2800
+a 550 Etablissement de credit : Fonds de reserve 2800
+27
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 27 28/11/12 11:36
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+
+--- Chunk 84 ---
+dE ComPtE du ComPtE debItEur CredItEur
+230 Tondeuse autotractee : 2800 0 2800 0
+valeur dacquisition
+440 Fournisseurs 4000 4000 0 0
+48901 Valeurs reportees fonds 23500 23500 0 0
+de reserve
+48902 Valeurs reportees fonds 20000 20000 0 0
+de roulement
+550 Etablissement de credit : 23500 2800 20700 0
+Fonds de reserve
+551 Etablissement de credit : 20000 1200 18800 0
+Fonds de roulement
+Total classe 1 a 5 93800 51500 42300 0
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+
+--- Chunk 85 ---
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+Total classe 6 et 7 1200 43500 1200 43500
+TOTAL 95000 95000 43500 43500
+Si un inventaire est etabli a ce moment, ces investissements seront ajoutes a lactif
+28
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 28 28/11/12 11:36
+Inventaire
+ACtIf PAssIf
+Installations, machines et outillage 2800 Produits
+
+--- Chunk 86 ---
+Etablissement de credit : fonds 20700 - Acompte de fonds de 23500
+de reserve reserve
+Etablissement de credit : fonds de 18800 - Acompte de fonds de 20000
+roulement roulement
+Charges
+- Entretien ascenseur (1200)
+Total 42300 Total 42300
+i. service d inTereTs
+Lassociation de coproprietaires recoit de letablissement de credit 310 euros dinterets sur ses
+fonds de reserve et 280 euros dinterets sur ses fonds de roulement Ces interets representent
+
+--- Chunk 87 ---
+un produit financier pour lassociation de coproprietaires et sont enregistres a ce titre au compte
+de resultats
+550 Etablissement de credit : Fonds de reserve 310
+a 751 Produits financiers : interets fonds de reserve 310
+551 Etablissement de credit : Fonds de roulement 280
+a 752 Produits financiers : interets fonds de roulement 280
+Compte de resultats
+ChArgEs ProduIts
+Contrat dentretien ascenseur 1200 Acomptes fonds de reserve 23500
+Acomptes fonds de roulement 20000
+
+--- Chunk 88 ---
+Acomptes fonds de roulement 20000
+Interets fonds de reserve 310
+Interets fonds de roulement 280
+Total 1200 Total 44090
+29
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 29 28/11/12 11:36
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+230 Tondeuse autotractee : 2800 0 2800 0
+valeur dacquisition
+
+--- Chunk 89 ---
+valeur dacquisition
+440 Fournisseurs 4000 4000 0 0
+48901 Valeurs reportees fonds 23500 23500 0 0
+de reserve
+48902 Valeurs reportees fonds 20000 20000 0 0
+de roulement
+550 Etablissement de credit : 23810 2800 21010 0
+Fonds de reserve
+551 Etablissement de credit : 20280 1200 19080 0
+Fonds de roulement
+Total classe 1 a 5 94390 51500 42890 0
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+
+--- Chunk 90 ---
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+751 Interets fonds de reserve 0 310 0 310
+752 Interets fonds de roulement 0 280 0 280
+Total classe 6 et 7 1200 44090 1200 44090
+TOTAL 95590 95590 44090 44090
+Si un inventaire est etabli a ce moment, ces produits dinterets constitueront une nouvelle
+ressource de fonds
+30
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 30 28/11/12 11:36
+Inventaire
+ACtIf PAssIf
+Installations, machines et outillage 2800 Produits
+
+--- Chunk 91 ---
+Etablissement de credit : fonds de 21010 - Acompte de fonds de 23500
+reserve reserve
+Etablissement de credit : fonds de 19080 - Acompte de fonds de 20000
+roulement roulement
+- Interets fonds de reserve 310
+- Interets fonds de roulement 280
+Charges
+- Entretien ascenseur (1200)
+Total 42890 Total 42890
+J. AmorTissemenT de lA Tondeuse AuToTrAcTee
+La duree dutilisation probable de cette tondeuse est estimee a 5 ans Chaque annee 1/5 de la
+
+--- Chunk 92 ---
+valeur dacquisition sera porte a charge du resultat de lexercice En fin de chaque exercice, cette
+charge sera enregistree comme suit :
+6302 Dotations aux amortissements sur immobilisations corporelles 560
+a 239 Installations, machines et outillage - tondeuse autotractee : amortissements actes 560
+Cet amortissement represente une charge de lexercice
+Compte de resultats
+ChArgEs ProduIts
+Contrat dentretien ascenseur 1200 Acomptes fonds de reserve 23500
+
+--- Chunk 93 ---
+Amortissement tondeuse 560 Acomptes fonds de 20000
+autotractee roulement
+Interets fonds de reserve 310
+Interets fonds de roulement 280
+Total 1760 Total 44090
+31
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 31 28/11/12 11:36
+A la suite de cette operation, le solde des comptes utilises par cette association de coproprie-
+taires est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+230 Tondeuse autotractee : 2800 0 2800 0
+
+--- Chunk 94 ---
+230 Tondeuse autotractee : 2800 0 2800 0
+valeur dacquisition
+239 Tondeuse autotractee : 0 560 0 560
+amortissements actes
+440 Fournisseurs 4000 4000 0 0
+48901 Valeurs reportees fonds 23500 23500 0 0
+de reserve
+48902 Valeurs reportees fonds 20000 20000 0 0
+de roulement
+550 Etablissement de credit : 23810 2800 21010 0
+Fonds de reserve
+551 Etablissement de credit : 20280 1200 19080 0
+Fonds de roulement
+Total classe 1 a 5 94390 52060 42890 560
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+
+--- Chunk 95 ---
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+6302 Dotations aux 560 0 560 0
+amortissements
+sur immobilisations
+corporelles
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+751 Interets fonds de reserve 0 310 0 310
+752 Interets fonds de roulement 0 280 0 280
+Total classe 6 et 7 1760 44090 1760 44090
+TOTAL 96150 96150 44650 44650
+32
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 32 28/11/12 11:36
+
+--- Chunk 96 ---
+Linventaire est adapte a la suite de cet amortissement Seule la valeur comptable nette de lactif
+est exprimee Linventaire peut etre etabli comme suit :
+Inventaire
+ACtIf PAssIf
+Installations, machines et outillage 2240 Produits
+Etablissement de credit : fonds de 21010 - Acompte de fonds de 23500
+reserve reserve
+Etablissement de credit : fonds de 19080 - Acompte de fonds de 20000
+roulement roulement
+- Interets fonds de reserve 310
+- Interets fonds de roulement 280
+Charges
+
+--- Chunk 97 ---
+- Interets fonds de roulement 280
+Charges
+- Entretien ascenseur (1200)
+- A mortissement tondeuse (560)
+a gazon
+Total 42330 Total 42330
+K. TrAnsFerT de Fonds de roulemenT eT de reserve en Fin dexercice 20n1
+A la fin de lexercice 20N1, les comptes doivent etre clotures a nouveau Il ressort du compte de
+resultats que le montant des appels dacompte adresses aux coproprietaires ou des produits (au
+total, 23500 euros de fonds de reserve, 20000 euros de fonds de roulement et 590 euros dinterets)
+
+--- Chunk 98 ---
+depasse le montant des charges de lexercice (1760 euros) Le solde (42330 euros) est enregistre
+comme une dette envers les coproprietaires, etant entendu, comme mentionne ci-dessus, quune
+distinction est faite entre le fonds de reserve a reporter et le fonds de roulement a reporter
+En cas de transmission de la propriete, la quote-part dans le fonds de reserve detenue par le
+coproprietaire sortant reste la propriete de lassociation Lors de lachat de la tondeuse autotrac-
+
+--- Chunk 99 ---
+tee, la valeur dacquisition a ete portee sous le fonds de reserve, puisque lachat de la tondeuse
+ne constitue pas une depense periodique et reste comme meuble egalement la propriete de
+lassociation de coproprietaires(16) En fin dexercice, le fonds de reserve reporte seleve au solde
+du compte distinct Fonds de reserve augmente de la valeur comptable nette de la tondeuse
+autotractee (21010 + 2240 = 23250)
+16 Article 577-5,  3 C civ
+33
+
+--- Chunk 100 ---
+16 Article 577-5,  3 C civ
+33
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 33 28/11/12 11:36
+693 Valeurs a reporter 42330
+a 48901 Dettes : valeurs reportees fonds de reserve 23250
+48902 Dettes : valeurs reportees fonds de roulement 19080
+A lissue du transfert du solde du compte de resultats a linventaire, le compte de resultats se
+presente comme suit :
+Compte de resultats
+ChArgEs ProduIts
+Contrat dentretien ascenseur 1200 Acomptes fonds de reserve 23500
+
+--- Chunk 101 ---
+Amortissement tondeuse 560 Acomptes fonds de 20000
+autotractee roulement
+Solde reporte 42330 Interets fonds de reserve 310
+Interets fonds de roulement 280
+Total 44090 Total 44090
+34
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 34 28/11/12 11:36
+A la suite du transfert du solde du compte de resultats a linventaire, le solde des comptes utilises
+est modifie comme suit :
+Numero deNomINAtIoN debIt CredIt soLdE soLdE
+dE ComPtE du ComPtE debItEur CredItEur
+
+--- Chunk 102 ---
+dE ComPtE du ComPtE debItEur CredItEur
+230 Tondeuse autotractee : 2800 0 2800 0
+valeur dacquisition
+239 Tondeuse autotractee : 0 560 0 560
+amortissements actes
+440 Fournisseurs 4000 4000 0 0
+48901 Valeurs reportees fonds 23500 46750 0 23250
+de reserve
+48902 Valeurs reportees fonds 20000 39080 0 19080
+de roulement
+550 Etablissement de credit : 23810 2800 21010 0
+Fonds de reserve
+551 Etablissement de credit : 20280 1200 19080 0
+Fonds de roulement
+Total classe 1 a 5 94390 94390 42890 42890
+
+--- Chunk 103 ---
+Total classe 1 a 5 94390 94390 42890 42890
+61011 Contrat dentretien 1200 0 1200 0
+ascenseurs
+6302 Dotations aux 560 0 560 0
+amortissements
+sur immobilisations
+corporelles
+693 Valeurs a reporter 42330 0 42330 0
+700 Acomptes fonds 0 23500 0 23500
+de reserve
+701 Acomptes fonds 0 20000 0 20000
+de roulement
+751 Interets fonds de reserve 0 310 0 310
+752 Interets fonds de roulement 0 280 0 280
+Total classe 6 et 7 44090 44090 44090 44090
+TOTAL 138480 138480 86980 86980
+35
+
+--- Chunk 104 ---
+TOTAL 138480 138480 86980 86980
+35
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 35 28/11/12 11:36
+Apres compensation au niveau du compte de resultats, linventaire se presente en fin dexercice
+20N1, comme suit :
+Inventaire
+ACtIf PAssIf
+Installations, machines et outillage 2240 Dettes : valeurs reportees 23250
+fonds de reserve
+Etablissement de credit : Fonds de 21010 Dettes : valeurs reportees 19080
+reserve fonds de roulement
+Etablissement de credit : Fonds de 19080
+roulement
+
+--- Chunk 105 ---
+roulement
+Total 42330 Total 42330
+17 Comme deja indique ci-avant, il est preferable de diviser les comptes de passif divers par lot de sorte que chaque solde, a la fin de
+chaque periode de rapport presente la dette correcte en fonds de reserve et de roulement pour chaque lot
+36
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 36 28/11/12 11:36
+Annexes
+dadministration reconnus necessaires par
+Legislation pertinente de lavis 2012/14 le juge
+ 7 Chacun des coproprietaires contribue aux
+
+--- Chunk 106 ---
+7 Chacun des coproprietaires contribue aux
+Annexe 1 depenses utiles de conservation et dentretien,
+Les articles 577-2 jusqua 577-14 inclus ainsi quaux frais dadministration, impots et
+du Code civil, avec les modifications autres charges de la chose commune
+apportees par la loi du 2 juin 2010(1)  8 Le partage de la chose commune est regi
+(version consolidee) par des regles etablies au titre des Successions
+ 9 Neanmoins, les biens immobiliers indivis
+chApiTre iii. - de lA coproprieTe
+
+--- Chunk 107 ---
+chApiTre iii. - de lA coproprieTe
+qui sont affectes a lusage commun de deux
+sECtIoN I. - dE LA CoProPrIEtE ordINAIrE ou plusieurs heritages distincts appartenant
+Et dE LA CoProPrIEtE forCEE EN gENErAL a des proprietaires differents ne sont point sujets
+Art. 577-2  1 A defaut de conventions et de a partage
+dispositions speciales, la propriete dune chose La quote-part dans les biens immobiliers
+qui appartient indivisement a plusieurs indivis ne peut etre alienee, grevee de droits
+
+--- Chunk 108 ---
+personnes est regie ainsi quil suit : reels ou saisie quavec lheritage dont elle est
+ 2 Les parts indivises sont presumees egales inseparable
+ 3 Le coproprietaire participe aux droits et aux Les charges de cette copropriete, notamment
+charges de la propriete en proportion de sa part les frais dentretien, de reparation et de refection,
+ 4 Le coproprietaire peut disposer de sa part doivent etre reparties en fonction de la valeur
+
+--- Chunk 109 ---
+et la grever de droits reels respective de chaque bien privatif, sauf si
+ 5 Le coproprietaire peut user et jouir de la les parties decident de les repartir en proportion
+chose commune conformement a sa destination de lutilite pour chaque bien privatif, des biens
+et dans la mesure compatible avec le droit de ses et services communs donnant lieu a ces charges
+consorts Les parties peuvent egalement combiner
+Il fait valablement les actes purement les criteres de valeur et dutilite
+
+--- Chunk 110 ---
+conservatoires et les actes dadministration Les dispositions du present paragraphe sont
+provisoire imperatives
+ 6 Ne sont valables que moyennant le  10 Dans le cas prevu au  9, il est loisible
+concours de tous les coproprietaires les autres a chacun des coproprietaires de modifier
+actes dadministration et les actes de disposition a ses frais la chose commune, pourvu quil nen
+Neanmoins, lun des coproprietaires peut change pas la destination et quil ne nuise pas
+
+--- Chunk 111 ---
+contraindre les autres a participer aux actes aux droits de ses consorts
+ 11 []
+1 La loi du 2 juin 2010 modifiant le Code civil afin de moder-
+niser le fonctionnement des coproprietes et daccroitre la
+transparence de leur gestion
+37
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 37 28/11/12 11:36
+sECtIoN II. - dE LA CoProPrIEtE forCEE dEs Les articles 577-3 et suivants sont applicables
+ImmEubLEs ou grouPEs dImmEubLEs bAtIs a ces associations partielles
+
+--- Chunk 112 ---
+sous-section i. - Dispositions generales Art. 577-4.  1 Lacte de base et le reglement
+Art. 577-3. Les principes relatifs a la copro- de copropriete, qui constituent les statuts de
+priete forcee enonces a larticle 577-2,  9, et limmeuble ou du groupe dimmeubles batis,
+les regles de la presente section, sont appli- ainsi que toute modification apportee a ceux-ci,
+cables a tout immeuble ou groupe dimmeubles doivent faire lobjet dun acte authentique
+
+--- Chunk 113 ---
+batis dont le droit de propriete est reparti entre Lacte de base comprend la description de
+plusieurs personnes par lots comprenant lensemble immobilier et des parties privatives
+chacun une partie privative batie et une et communes, ainsi que la fixation de la quote-
+quote-part dans des elements immobiliers part des parties communes afferente a chaque
+communs Ils ne sy appliquent pas si la nature partie privative, cette quote-part etant determi-
+
+--- Chunk 114 ---
+des biens ne le justifie pas et que tous les nee en tenant compte de leur valeur respective
+coproprietaires saccordent sur cette derogation fixee en fonction de la superficie nette au sol, de
+Tout immeuble ou groupe dimmeubles batis laffectation et de la situation de la partie
+auxquels sappliquent ces principes doit etre regi privative, sur la base dun rapport motive dun
+par un acte de base et un reglement de notaire, dun geometre-expert, dun architecte
+copropriete ou dun agent immobilier
+
+--- Chunk 115 ---
+copropriete ou dun agent immobilier
+Dans le silence ou la contradiction des titres, Ce rapport est repris dans lacte de base
+sont reputees communes les parties Le reglement de copropriete doit comprendre :
+de batiments ou de terrains affectees a lusage 1 la description des droits et des obligations
+de tous les coproprietaires ou de certains de chaque coproprietaire quant aux parties
+dentre eux privatives et aux parties communes;
+
+--- Chunk 116 ---
+dentre eux privatives et aux parties communes;
+Si lindivision principale comprend vingt lots 2 les criteres motives et le mode de calcul de
+ou plus, lacte de base peut prevoir la creation la repartition des charges;
+dassociations partielles par immeuble dans 3 les regles relatives au mode de convocation,
+un groupe dimmeubles ou, si un immeuble au fonctionnement et aux pouvoirs de lassem-
+comporte une separation physique en elements blee generale;
+
+--- Chunk 117 ---
+clairement distincts, par element de cet 4 le mode de nomination dun syndic, letendue
+immeuble Ces associations partielles ne sont de ses pouvoirs, la duree de son mandat et les
+competentes que pour les parties communes modalites de renouvellement de celui-ci, les moda-
+particulieres designees dans lacte de base, lites du renon eventuel de son contrat ainsi que
+etant entendu que lindivision principale reste les obligations consecutives a la fin de sa mission;
+
+--- Chunk 118 ---
+exclusivement competente pour les parties 5 la periode annuelle de quinze jours pendant
+communes generales et les elements qui relevent laquelle se tient lassemblee generale ordinaire
+de la gestion commune de la copropriete de lassociation des coproprietaires
+38
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 38 28/11/12 11:36
+ 2 Sil a ete decide detablir un reglement  2 En cas domission ou de retard dans la
+
+--- Chunk 119 ---
+dordre interieur, il peut etre etabli par acte sous transcription des statuts, lassociation des
+seing prive coproprietaires ne pourra se prevaloir de la
+ 3 Est reputee non ecrite toute clause des personnalite juridique a legard des tiers lesquels
+statuts qui limite le droit du coproprietaire auront neanmoins la faculte den faire etat
+de confier la gestion de son lot a la personne de contre elle
+son choix  3 Lassociation des coproprietaires ne peut
+
+--- Chunk 120 ---
+4 Est reputee non ecrite, toute clause des avoir dautre patrimoine que les meubles
+statuts qui confie a un ou plusieurs arbitres le necessaires a laccomplissement de son objet,
+pouvoir juridictionnel de trancher des conflits qui consiste exclusivement dans la conservation
+qui surgiraient concernant lapplication de la et ladministration de limmeuble ou du groupe
+presente section dimmeubles batis
+ 4 Sans prejudice de larticle 577-9,  5,
+
+--- Chunk 121 ---
+4 Sans prejudice de larticle 577-9,  5,
+sous-section ii. - De la personnalite juridique lexecution des decisions condamnant lassocia-
+de lassociation des coproprietaires tion des coproprietaires peut etre poursuivie sur
+Art. 577-5  1 Lassociation des coproprietaires le patrimoine de chaque coproprietaire
+acquiert la personnalite juridique au moment ou proportionnellement a sa quote-part dans les
+sont reunies les deux conditions suivantes : parties communes
+
+--- Chunk 122 ---
+1 la naissance de lindivision par la cession
+ou lattribution dun lot au moins; sous-section iii. - Des organes de lassociation
+2 la transcription de lacte de base et du des coproprietaires
+reglement de copropriete a la conservation Art. 577-6  1er Chaque proprietaire dun lot
+des hypotheques Les plans de limmeuble fait partie de lassemblee generale et participe
+peuvent y etre annexes sous forme de copie a ses deliberations
+
+--- Chunk 123 ---
+certifiee conforme par le notaire En cas de division du droit de propriete portant
+Elle porte la denomination :  association des sur un lot privatif ou lorsque la propriete dun lot
+coproprietaires , suivie des indications relatives privatif est grevee dun droit demphyteose,
+a la situation de limmeuble ou du groupe de superficie, dusufruit, dusage ou dhabitation,
+dimmeubles batis le droit de participation aux deliberations de
+
+--- Chunk 124 ---
+Elle a son siege dans limmeuble Sil sagit lassemblee generale est suspendu jusqua ce
+dun groupe dimmeubles, lacte de base que les interesses designent la personne qui
+determine quel immeuble constitue le siege sera leur mandataire Lorsque lun des interesses
+de lassociation et son representant legal ou conventionnel
+Tous les documents emanant de lassociation ne peuvent participer a la designation de ce
+des coproprietaires mentionnent le numero mandataire, les autres interesses designent
+
+--- Chunk 125 ---
+dentreprise de ladite association valablement ce dernier Ce dernier est convoque
+39
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 39 28/11/12 11:36
+aux assemblees generales, exerce le droit de La convocation est effectuee par lettre
+participation aux deliberations de celles-ci recommandee a la poste, a moins que les
+et recoit tous les documents provenant de destinataires naient accepte, individuellement,
+
+--- Chunk 126 ---
+lassociation des coproprietaires Les interesses explicitement et par ecrit, de recevoir la
+communiquent par ecrit au syndic lidentite convocation par un autre moyen de communica-
+de leur mandataire tion Les convocations envoyees a la derniere
+ 2 Le syndic tient une assemblee generale au adresse connue du syndic a la date de lenvoi
+cours de la periode fixee par le reglement de sont reputees regulieres Les frais administratifs
+
+--- Chunk 127 ---
+copropriete ou chaque fois quune decision doit afferents a la convocation a lassemblee generale
+etre prise durgence dans linteret de la sont a charge de lassociation des coproprietaires
+copropriete Sauf dans les cas durgence, la convocation est
+Sans prejudice de lalinea 1er, le syndic tient une communiquee quinze jours au moins avant la
+assemblee generale sur requete dun ou date de lassemblee, a moins que le reglement
+
+--- Chunk 128 ---
+de plusieurs coproprietaires qui possedent au de copropriete nait prevu un delai plus long
+moins un cinquieme des parts dans les parties  4 A tout moment, un ou plusieurs coproprie-
+communes Cette requete est adressee au syndic taires, ou le conseil de copropriete sil en existe
+par lettre recommandee a la poste et celui-ci un, peuvent notifier au syndic les points dont ils
+adresse la convocation aux coproprietaires dans demandent quils soient inscrits a lordre du jour
+
+--- Chunk 129 ---
+les trente jours de la reception de la requete dune assemblee generale Ces points sont pris
+Si le syndic ne donne pas suite a cette requete, en compte par le syndic, conformement au  3
+un des coproprietaires qui a cosigne la requete Toutefois, compte tenu de la date de reception
+peut convoquer lui-meme lassemblee generale de la demande par le syndic, si ces points ne
+ 3 La convocation indique le lieu, le jour et peuvent etre inscrits a lordre du jour de cette
+
+--- Chunk 130 ---
+lheure auxquels aura lieu lassemblee, ainsi que assemblee, ils le sont a lordre du jour de
+lordre du jour avec le releve des points qui seront lassemblee generale suivante
+soumis a discussion Le syndic inscrit a lordre du  5 Lassemblee generale est presidee par un
+jour les propositions ecrites des coproprietaires, coproprietaire
+du conseil de copropriete ou des associations Lassemblee generale ne delibere valablement
+
+--- Chunk 131 ---
+partielles depourvues de la personnalite que si, au debut de lassemblee generale, plus de
+juridique, quil a recues au moins trois semaines la moitie des coproprietaires sont presents ou
+avant le premier jour de la periode, fixee dans representes et pour autant quils possedent au
+le reglement de copropriete, au cours de laquelle moins la moitie des quotes-parts dans les parties
+lassemblee generale ordinaire doit avoir lieu communes
+
+--- Chunk 132 ---
+La convocation indique les modalites de Neanmoins, lassemblee generale delibere
+consultation des documents relatifs aux points aussi valablement si les coproprietaires presents
+inscrits a lordre du jour ou representes au debut de lassemblee generale
+40
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 40 28/11/12 11:36
+representent plus de trois quarts des quotes-  8 Les decisions de lassemblee generale sont
+parts dans les parties communes prises a la majorite absolue des voix des
+
+--- Chunk 133 ---
+Si aucun des deux quorums nest atteint, une coproprietaires presents ou representes au
+deuxieme assemblee generale sera reunie apres moment du vote, sauf si la loi exige une majorite
+un delai de quinze jours au moins et pourra qualifiee
+deliberer quels que soient le nombre des Les abstentions, les votes nuls et blancs ne sont
+membres presents ou representes et les quotes pas consideres comme des voix emises pour le
+parts de copropriete dont ils sont titulaires calcul de la majorite requise
+
+--- Chunk 134 ---
+6 Chaque coproprietaire dispose dun  9 Aucune personne mandatee ou employee
+nombre de voix correspondant a sa quote-part par lassociation des coproprietaires, ou prestant
+dans les parties communes pour elle des services dans le cadre de tout
+ 7 Tout coproprietaire peut se faire represen- autre contrat, ne peut participer personnelle-
+ter par un mandataire, membre de lassemblee ment ou par procuration aux deliberations
+generale ou non et aux votes relatifs a la mission qui lui a ete
+
+--- Chunk 135 ---
+La procuration designe nommement le confiee
+mandataire  10 Le syndic redige le proces-verbal des
+La procuration peut etre generale ou speciale decisions prises par lassemblee generale avec
+et ne peut concerner quune assemblee indication des majorites obtenues et du nom
+generale, hormis le cas dune procuration des coproprietaires qui ont vote contre ou qui
+notariee generale ou speciale se sont abstenus
+Nul ne peut prendre part au vote, meme A la fin de la seance et apres lecture, ce
+
+--- Chunk 136 ---
+comme mandataire, pour un nombre de voix proces-verbal est signe par le president de
+superieur a la somme des voix dont disposent lassemblee generale, par le secretaire designe
+les autres coproprietaires presents ou lors de louverture de la seance et par tous les
+representes coproprietaires encore presents a ce moment
+Nul ne peut accepter plus de trois procurations ou leurs mandataires
+de vote Toutefois, un mandataire peut recevoir  11 Les membres de lassociation des
+
+--- Chunk 137 ---
+plus de trois procurations de vote si le total des coproprietaires peuvent prendre a lunanimite
+voix dont il dispose lui-meme et de celles de ses et par ecrit toutes les decisions relevant des
+mandants nexcede pas 10 % du total des voix competences de lassemblee generale, a
+affectees a lensemble des lots de la copropriete lexception de celles qui doivent etre passees par
+Le syndic ne peut intervenir comme manda- acte authentique Le syndic en dresse le
+
+--- Chunk 138 ---
+taire dun coproprietaire a lassemblee generale, proces-verbal
+nonobstant le droit pour lui, sil est coproprie-  12 Le syndic consigne les decisions visees
+taire, de participer a ce titre aux deliberations de aux  10 et 11 dans le registre prevu a larticle
+lassemblee 577-10,  3, dans les 30 jours suivant lassemblee
+41
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 41 28/11/12 11:36
+generale, et transmet celles-ci, dans le meme d) du montant des marches et des contrats a
+
+--- Chunk 139 ---
+delai, aux coproprietaires et aux autres syndics partir duquel une mise en concurrence est
+Si le coproprietaire na pas recu le proces-verbal obligatoire, sauf les actes vises a larticle 577-8,
+dans le delai fixe, il en informe le syndic par ecrit  4, 4;
+Art. 577-7. Lassemblee generale decide : e) moyennant une motivation speciale, de
+1 a la majorite des trois quarts des voix : lexecution de travaux a certaines parties
+
+--- Chunk 140 ---
+a) de toute modification aux statuts pour privatives qui, pour des raisons techniques ou
+autant quelle ne concerne que la jouissance, economiques, sera assuree par lassociation
+lusage ou ladministration des parties communes; des coproprietaires
+b) de tous travaux affectant les parties Cette decision ne modifie pas la repartition
+communes, a lexception de ceux qui peuvent des couts de lexecution de ces travaux entre
+etre decides par le syndic; les coproprietaires
+
+--- Chunk 141 ---
+etre decides par le syndic; les coproprietaires
+c) dans toute copropriete de moins de vingt 2 a la majorite des quatre cinquieme des voix :
+lots, a lexclusion des caves, garages et parkings, a) de toute autre modification aux statuts, en
+de la creation et de la composition dun conseil ce compris la modification de la repartition des
+de copropriete, exclusivement compose de charges de copropriete;
+coproprietaires, qui a pour mission de veiller a la b) de la modification de la destination de
+
+--- Chunk 142 ---
+bonne execution par le syndic de ses missions, limmeuble ou dune partie de celui-ci;
+sans prejudice de larticle 577-8/2 c) de la reconstruction de limmeuble ou de la
+A cet effet, le conseil de copropriete peut remise en etat de la partie endommagee en cas
+prendre connaissance et copie, apres en avoir de destruction partielle;
+avise le syndic, de toutes pieces ou documents d) de toute acquisition des biens immobiliers
+se rapportant a la gestion de ce dernier ou destines a devenir communs;
+
+--- Chunk 143 ---
+interessant la copropriete e) de tous actes de disposition de biens
+Sous reserve des competences legales du immobiliers communs
+syndic et de lassemblee generale, le conseil de f) de la modification des statuts en fonction
+copropriete peut recevoir toute autre mission de larticle 577-3, alinea 4;
+ou delegation sur decision de lassemblee g) sans prejudice de larticle 577-3,
+generale prise a la majorite des trois quarts alinea 4, de la creation dassociations partielles
+
+--- Chunk 144 ---
+des voix Une mission ou une delegation de depourvues de la personnalite juridique,
+lassemblee generale ne peut porter que sur celles-ci pouvant uniquement preparer
+des actes expressement determines et nest les decisions relatives aux parties
+valable que pour un an communes particulieres indiquees dans
+Le conseil de copropriete adresse aux copro- la decision Ces propositions de decisions
+prietaires un rapport semestriel circonstancie sur doivent etre ratifiees lors de lassemblee
+
+--- Chunk 145 ---
+lexercice de sa mission generale suivante
+42
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 42 28/11/12 11:36
+ 2 En cas destruction totale ou partielle, Sil a ete designe dans le reglement de
+les indemnites representatives de limmeuble copropriete, son mandat expire de plein droit
+detruit sont affectees par priorites a la recons- lors de la premiere assemblee generale
+truction lorsque celle-ci est decidee Le mandat du syndic ne peut exceder trois ans,
+
+--- Chunk 146 ---
+Sans prejudice des actions exercees contre le mais peut etre renouvele par decision expresse
+proprietaire, loccupant ou le tiers, responsable de lassemblee generale Le seul fait de ne pas
+du sinistre, les coproprietaires sont tenus, en renouveler ce mandat ne peut donner lieu a une
+cas de reconstruction ou de remise en etat, indemnite
+de participer aux frais en proportion de leur Sous reserve dune decision expresse de
+
+--- Chunk 147 ---
+quote-part dans la copropriete lassemblee generale, il ne peut souscrire aucun
+ 3 Il est statue a lunanimite des voix de tous engagement pour un terme excedant, la duree
+les coproprietaires sur toute modification de la de son mandat
+repartition des quotes-parts de copropriete, ainsi  2 Un extrait de lacte portant designation ou
+que sur toute decision de lassemblee generale nomination du syndic est affiche, dans les huit
+
+--- Chunk 148 ---
+de reconstruction totale de limmeuble jours a dater de la prise de cours de sa mission,
+Toutefois, lorsque lassemblee generale, a la de maniere inalterable et visible a tout moment
+majorite requise par la loi, decide de travaux ou a lentree de limmeuble, siege de lassociation
+dactes dacquisition ou de disposition, elle peut des coproprietaires
+statuer, a la meme majorite, sur la modification Lextrait indique, outre la date de la designation
+
+--- Chunk 149 ---
+de la repartition des quotes-parts de copropriete ou de la nomination, les nom, prenoms,
+dans les cas ou cette modification est necessaire profession et domicile du syndic ou, sil sagit
+Sil est decide de la constitution dassociations dune societe, sa forme, sa denomination sociale,
+partielles a la majorite requise par la loi, la son siege social ainsi que son numero dentreprise
+modification des quotites de la copropriete si la societe est inscrite a la Banque-Carrefour
+
+--- Chunk 150 ---
+necessaire en consequence de cette modification des Entreprises Il doit etre complete par toutes
+peut etre decidee par lassemblee generale a la autres indications permettant a tout interesse
+meme majorite de communiquer avec le syndic sans delai et
+Art. 577-8.  1 Lorsquil nest pas designe notamment le lieu ou le reglement dordre
+par le reglement de copropriete, le syndic est interieur et le registre des decisions de lassem-
+
+--- Chunk 151 ---
+nomme par la premiere assemblee generale blee generale peuvent etre consultes
+ou, a defaut, par decision du juge, a la requete Laffichage de lextrait se fait a la diligence du
+de tout coproprietaire ou de tout tiers ayant syndic
+un interet  2/1 Le Roi fixe la procedure dinscription du
+Les dispositions regissant la relation entre le syndic a la Banque-Carrefour des Entreprises
+syndic et lassociation des coproprietaires  3 Lorsque la signification ne peut etre faite
+
+--- Chunk 152 ---
+figurent dans un contrat ecrit conformement a larticle 35 du Code judiciaire,
+43
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 43 28/11/12 11:36
+elle se fait conformement a larticle 38 du de vote a lassemblee generale, la date des
+meme Code assemblees afin de lui permettre de formuler par
+La lettre recommandee visee a larticle 38, ecrit ses demandes ou observations relatives aux
+ 1er, alinea 3, doit alors etre adressee au parties communes qui seront a ce titre commu-
+
+--- Chunk 153 ---
+domicile du syndic niquees a lassemblee La communication se fait
+ 4 Quels que soient les pouvoirs qui lui par affichage, a un endroit bien visible, dans les
+sont conferes par le reglement de copropriete, parties communes de limmeuble
+le syndic est charge : 9 de transmettre, si son mandat a pris fin
+1 [] de quelque maniere que ce soit, dans un delai de
+2 [ ] trente jours suivant la fin de son mandat,
+3 [dexecuter et de faire executer les decisions lensemble du dossier de la gestion de limmeuble
+
+--- Chunk 154 ---
+prises par lassemblee generale; a son successeur ou, en labsence de ce dernier,
+4 daccomplir tous actes conservatoires et tous au president de la derniere assemblee generale,
+actes dadministration provisoire; y compris la comptabilite et les actifs dont il
+5 dadministrer les fonds de lassociation avait la gestion, tout sinistre, un historique du
+des coproprietaires; dans la mesure du possible, compte sur lequel les sinistres ont ete regles,
+
+--- Chunk 155 ---
+ces fonds doivent etre integralement places sur ainsi que les documents prouvant laffectation
+divers comptes, dont obligatoirement un qui a ete donnee a toute somme qui ne se
+compte distinct pour le fonds de roulement retrouve pas sur les comptes financiers de
+et un compte distinct pour le fonds de reserve; la copropriete;
+tous ces comptes doivent etre ouverts au nom 10 de souscrire une assurance responsabilite
+
+--- Chunk 156 ---
+de lassociation des coproprietaires; couvrant lexercice de sa mission et de fournir la
+6 de representer lassociation des coproprie- preuve de cette assurance; en cas de mandat
+taires, tant en justice que dans la gestion des gratuit, cette assurance est souscrite aux frais de
+affaires communes Sous reserve de dispositions lassociation des coproprietaires;
+contraires dans le present chapitre, la correspon- 11 de permettre aux coproprietaires davoir
+
+--- Chunk 157 ---
+dance recommandee est, a peine de nullite, acces a tous les documents ou informations
+adressee au domicile, ou a defaut, a la residence a caractere non prive relatifs a la copropriete,
+ou au siege social du syndic et au siege de de toutes les manieres definies dans le
+lassociation des coproprietaires; reglement de copropriete ou par lassemblee
+7 de fournir le releve des dettes visees a generale [];
+larticle 577-11,  2, dans les trente jours de la 12 de conserver, le cas echeant, le dossier
+
+--- Chunk 158 ---
+demande qui lui en est faite par le notaire; dintervention ulterieure de la facon fixee par
+8 de communiquer a toute personne le Roi;
+occupant limmeuble en vertu dun droit 13 de presenter, pour la mise en concurrence
+personnel ou reel mais ne disposant pas du droit visee a larticle 577-7,  1er, 1, d) une pluralite
+44
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 44 28/11/12 11:36
+de devis etablis sur la base dun cahier des 17 de tenir les comptes de lassociation des
+
+--- Chunk 159 ---
+charges prealablement elabore; coproprietaires de maniere claire, precise et
+14 de soumettre a lassemblee generale detaillee suivant le plan comptable minimum
+ordinaire un rapport devaluation des contrats normalise a etablir par le Roi Toute copropriete
+de fournitures regulieres; de moins de vingt lots a lexclusion des caves,
+15 de solliciter lautorisation prealable de des garages et parkings est autorisee a tenir une
+
+--- Chunk 160 ---
+lassemblee generale pour toute convention comptabilite simplifiee refletant au minimum les
+entre lassociation des coproprietaires et le recettes et les depenses, la situation de tresorerie
+syndic, ses preposes, ses proches, parents ou ainsi que les mouvements des disponibilites en
+allies jusquau troisieme degre inclus, ou ceux especes et en compte, le montant du fonds de
+de son conjoint jusquau meme degre; il en est roulement et du fonds de reserve vises a larticle
+
+--- Chunk 161 ---
+de meme des conventions entre lassociation 577-11,  5, alineas 2 et 3, les creances et les
+des coproprietaires et une entreprise dont les dettes des coproprietaires;
+personnes susvisees sont proprietaires ou dans 18 de preparer le budget previsionnel pour
+le capital de laquelle elles detiennent une faire face aux depenses courantes de mainte-
+participation ou dans laquelle elles exercent des nance, de fonctionnement et dadministration
+
+--- Chunk 162 ---
+fonctions de direction ou de controle, ou dont des parties communes et equipements
+elles sont salariees ou preposees; lorsquil est communs de limmeuble, ainsi quun budget
+une personne morale, le syndic ne peut, sans y previsionnel pour les frais extraordinaires
+avoir ete specialement autorise par une decision previsibles; ces budgets previsionnels sont
+de lassemblee generale, contracter pour le soumis, chaque annee, au vote de lassociation
+
+--- Chunk 163 ---
+compte de lassociation des coproprietaires avec des coproprietaires; ils sont joints a lordre du
+une entreprise qui detient, directement ou jour de lassemblee generale appelee a voter sur
+indirectement, une participation dans son ces budgets
+capital;  5 Le syndic est seul responsable de sa
+16 de tenir a jour la liste et les coordonnees gestion; il ne peut deleguer ses pouvoirs sans
+des personnes en droit de participer aux laccord de lassemblee generale et seulement
+
+--- Chunk 164 ---
+deliberations de lassemblee generale et de pour une duree ou a des fins determinees
+transmettre aux coproprietaires, a premiere  6 Lassemblee generale peut toujours
+demande et au notaire sil en fait la demande au revoquer le syndic Elle peut de meme, si elle le
+syndic, dans le cadre de la transcription dactes juge opportun, lui adjoindre un syndic provisoire
+qui sont transcrits a la conservation des pour une duree ou a des fins determinees
+
+--- Chunk 165 ---
+hypotheques conformement a larticle 1er, alinea  7 En cas dempechement ou de carence du
+1er, de la loi hypothecaire du 16 decembre 1851, syndic, le juge peut designer un syndic provi-
+les noms, adresses, quotites et references des soire, pour la duree quil determine, a la requete
+lots des autres coproprietaires; dun coproprietaire
+45
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 45 28/11/12 11:36
+
+--- Chunk 166 ---
+Le syndic doit etre appele a la cause par Art. 577-9.  1 Lassociation des coproprie-
+le requerant taires a qualite pour agir en justice, tant en
+ 8 Il existe une incompatibilite entre lexercice demandant quen defendant
+de la fonction de syndic et la qualite de membre Nonobstant larticle 577-5,  3, lassociation des
+du conseil de copropriete coproprietaires a le droit dagir, conjointement
+Art. 577-8/1. Dans tout immeuble ou groupe ou non avec un ou plusieurs coproprietaires, en
+
+--- Chunk 167 ---
+dimmeubles dau moins vingt lots a lexclusion vue de la sauvegarde de tous les droits relatifs a
+des caves, garages et parkings, un conseil de lexercice, a la reconnaissance ou a la negation
+copropriete est constitue par la premiere de droits reels ou personnels sur les parties
+assemblee generale Ce conseil, compose des communes, ou relatifs a la gestion de celles-ci
+seuls coproprietaires, est charge de veiller a la Elle est reputee avoir la qualite et linteret requis
+
+--- Chunk 168 ---
+bonne execution par le syndic de ses missions, pour la defense de ce droit
+sans prejudice de larticle 577-8/2 A cet effet, Le syndic est habilite a introduire toute
+il peut prendre connaissance et copie, apres en demande urgente ou conservatoire en ce qui
+avoir avise le syndic, de toutes pieces ou concerne les parties communes, a charge den
+documents se rapportant a la gestion de ce obtenir ratification par lassemblee generale
+
+--- Chunk 169 ---
+dernier ou interessant la copropriete Il peut dans les plus brefs delais
+recevoir toute autre mission ou delegation sur Le syndic informe sans delai les coproprietaires
+decision de lassemblee generale prise a une individuels et les autres personnes ayant le droit
+majorite des 3/4 des voix sous reserve des de participer aux deliberations de lassemblee
+competences legales du syndic et de lassemblee generale des actions intentees par ou contre
+
+--- Chunk 170 ---
+generale Une mission ou une delegation de lassociation des coproprietaires
+lassemblee generale ne peut porter que sur des Tout coproprietaire peut neanmoins exercer
+actes expressement determines et nest valable seul les actions relatives a son lot, apres en avoir
+que pour une annee Le conseil de copropriete informe le syndic qui a son tour en informe les
+adresse aux coproprietaires un rapport semes- autres coproprietaires
+
+--- Chunk 171 ---
+triel circonstancie sur lexercice de sa mission  2 Tout coproprietaire peut demander au juge
+Art. 577-8/2. Lassemblee generale designe dannuler ou de reformer une decision irreguliere,
+annuellement un commissaire aux comptes, frauduleuse ou abusive de lassemblee generale
+coproprietaire ou non, dont les obligations et les Cette action doit etre intentee dans un delai de
+competences sont determinees par le reglement quatre mois, a compter de la date a laquelle
+
+--- Chunk 172 ---
+de copropriete lassemblee generale a eu lieu
+ 3 Tout coproprietaire peut egalement
+sous-section iv. - Des actions en justice - De demander au juge dordonner la convocation
+la publicite - De lopposabilite et de la transmis- dune assemblee generale dans le delai que ce
+sion dernier fixe afin de deliberer sur la proposition
+46
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 46 28/11/12 11:36
+que ledit coproprietaire determine, lorsque le  8 Par derogation a larticle 577-2,  7, le
+
+--- Chunk 173 ---
+syndic neglige ou refuse abusivement de le faire coproprietaire dont la demande, a lissue dune
+ 4 Lorsque, au sein de lassemblee generale, procedure judiciaire lopposant a lassociation
+la majorite requise ne peut etre atteinte, tout des coproprietaires, est declaree fondee par
+coproprietaire peut se faire autoriser par le juge le juge, est dispense de toute participation a la
+a accomplir seul, aux frais de lassociation, des depense commune aux honoraires et depens,
+
+--- Chunk 174 ---
+travaux urgents et necessaires affectant les dont la charge est repartie entre les autres
+parties communes coproprietaires
+Il peut, de meme, se faire autoriser a executer Si la pretention est declaree partiellement
+a ses frais des travaux qui lui son utiles, meme fondee, le coproprietaire est dispense de toute
+sils affectent les parties communes, lorsque participation aux honoraires et depens, mis a
+lassemblee generale sy oppose sans juste motif charge de lassociation des coproprietaires en
+
+--- Chunk 175 ---
+5 Des quil a intente lune des actions visees application de larticle 1017, alinea 4, du Code
+aux  3 et 4, et pour autant quil nen soit pas judiciaire
+deboute, le demandeur est degage de toute  9 Par derogation a larticle 577-2,  7, le
+responsabilite pour tout dommage qui pourrait coproprietaire defendeur engage dans une
+resulter de labsence de decision procedure judiciaire intentee par lassociation
+ 6 Tout coproprietaire peut demander au juge des coproprietaires, dont la demande a ete
+
+--- Chunk 176 ---
+de rectifier : declaree totalement infondee par le juge, est
+1 la repartition des quotes-parts dans les dispense de toute participation aux honoraires
+parties communes, si cette repartition a ete et depens, dont la charge est repartie entre les
+calculee inexactement ou si elle est devenue autres coproprietaires
+inexacte par suite de modifications apportees Si la demande est declaree fondee en tout ou
+a limmeuble; en partie, le coproprietaire defendeur participe
+
+--- Chunk 177 ---
+2 le mode de repartition des charges si aux honoraires et depens mis a la charge de
+celui-ci cause un prejudice propre, ainsi que lassociation des coproprietaires
+le calcul de celles-ci sil est inexact ou sil est Art. 577-10.  1 Les dispositions des statuts
+devenu inexact par suite de modifications peuvent etre directement opposees par ceux a
+apportees a limmeuble qui elles sont opposables et qui sont titulaires
+
+--- Chunk 178 ---
+7 Lorsquune minorite de coproprietaires dun droit reel ou personnel sur limmeuble en
+empeche abusivement lassemblee generale de copropriete
+prendre une decision a la majorite requise par la  1er/1 Chaque membre de lassemblee
+loi ou par les statuts, tout coproprietaire lese generale des coproprietaires informe sans delai
+peut egalement sadresser au juge, afin que le syndic de ses changements dadresse ou des
+
+--- Chunk 179 ---
+celui-ci substitue a lassemblee generale et changements intervenus dans le statut de droit
+prenne a sa place la decision requise reel de la partie privative
+47
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 47 28/11/12 11:36
+Les convocations envoyees a la derniere reel ou personnel, du dommage ne du retard ou
+adresse connue du syndic a la date de lenvoi de labsence de communication;
+sont reputees regulieres 2 en ce qui concerne les dispositions et
+
+--- Chunk 180 ---
+2 Le reglement dordre interieur est depose, decisions adoptees posterieurement a la
+dans le mois de sa redaction, au siege de concession du droit personnel ou a la naissance
+lassociation des coproprietaires, a linitiative du du droit reel, par la communication qui lui en est
+syndic ou, si celui-ci na pas encore ete designe, faite, a linitiative du syndic, par lettre recom-
+a linitiative de son auteur mandee a la poste
+
+--- Chunk 181 ---
+a linitiative de son auteur mandee a la poste
+Le syndic met a jour, sans delai, le reglement Cette communication ne doit pas etre faite a
+dordre interieur en fonction des modifications ceux qui disposent du droit de vote a lassem-
+decidees par lassemblee generale blee generale
+Le reglement dordre interieur peut etre Toute personne occupant, limmeuble bati en
+consulte sur place et sans frais par tout interesse vertu dun droit personnel ou reel mais ne
+
+--- Chunk 182 ---
+3 Les decisions de lassemblee generale sont disposant pas du droit de vote a lassemblee
+consignees dans un registre depose au siege de generale, peut cependant demander au juge
+lassociation des coproprietaires dannuler ou de reformer toute disposition du
+Ce registre peut etre consulte sur place et sans reglement dordre interieur ou toute decision de
+frais par tout interesse lassemblee generale adoptee apres la naissance
+
+--- Chunk 183 ---
+4 Toute disposition du reglement dordre du droit, si elle lui cause un prejudice propre
+interieur et toute decision de lassemblee Laction doit etre intentee dans les trois mois
+generale peuvent etre directement opposees de la communication de la decision
+par ceux a qui elles sont opposables Le juge peut, avant de dire droit et sur
+Elles sont opposables a toute personne titulaire demande du requerant, ordonner la suspension
+
+--- Chunk 184 ---
+dun droit reel ou personnel sur limmeuble en de la disposition ou de la decision attaquee
+copropriete aux conditions suivantes : Tout membre de lassemblee generale des
+1 en ce qui concerne les dispositions et coproprietaires est tenu dinformer sans delai le
+decisions adoptees avant la concession du droit syndic des droits personnels quil aurait
+reel ou personnel, par la communication qui lui concedes a des tiers sur son lot privatif
+
+--- Chunk 185 ---
+est obligatoirement faite par le concedant au Art. 577-11.  1er Dans la perspective de la
+moment de la concession du droit, de lexistence cession du droit de propriete dun lot, le notaire
+du reglement dordre interieur et du registre vise instrumentant, toute personne agissant en tant
+au  3 ou, a defaut, par la communication qui lui quintermediaire professionnel ou le cedant,
+en est faite a linitiative du syndic, par lettre selon le cas, transmet au cessionnaire, avant la
+
+--- Chunk 186 ---
+recommandee a la poste; le concedant est signature de la convention ou, le cas echeant,
+responsable, vis-a-vis de lassociation des de loffre dachat ou de la promesse dachat,
+coproprietaires et du concessionnaire du droit les informations et documents suivants, que
+48
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 48 28/11/12 11:36
+le syndic lui communique sur simple demande, 2 un etat des appels de fonds approuves par
+
+--- Chunk 187 ---
+dans un delai de quinze jours : lassemblee generale des coproprietaires avant
+1 le montant du fonds de roulement et du la date certaine du transfert de propriete et le
+fonds de reserve, au sens du  5, alineas 2 et 3; cout des travaux urgents dont le paiement est
+2 le montant des arrieres eventuels dus par demande par le syndic posterieurement a cette
+le cedant; date;
+3 la situation des appels de fonds, destines 3 un etat des frais lies a lacquisition de parties
+
+--- Chunk 188 ---
+au fonds de reserve et decides par lassemblee communes, decides par lassemblee generale
+generale avant la date certaine du transfert de avant la date certaine du transfert de la
+la propriete; propriete, mais dont le paiement est demande
+4 le cas echeant, le releve des procedures par le syndic posterieurement a cette date;
+judiciaires en cours relatives a la copropriete; 4 un etat des dettes certaines dues par
+
+--- Chunk 189 ---
+5 les proces-verbaux des assemblees generales lassociation des coproprietaires a la suite de
+ordinaires et extraordinaires des trois dernieres litiges nes avant la date certaine du transfert de
+annees, ainsi que les decomptes periodiques des la propriete, mais dont le paiement est demande
+charges des deux dernieres annees; par le syndic posterieurement a cette date
+6 une copie du dernier bilan approuve Les documents enumeres au  1er sont
+
+--- Chunk 190 ---
+par lassemblee generale de lassociation des demandes par le notaire au syndic de la meme
+coproprietaires maniere sils ne sont pas encore en la possession
+A defaut de reponse du syndic dans les quinze du coproprietaire entrant
+jours de la demande, le notaire, toute personne Le notaire transmet ensuite les documents au
+agissant en tant quintermediaire professionnel cessionnaire
+ou le cedant, selon le cas, avise les parties de la A defaut de reponse du syndic dans les trente
+
+--- Chunk 191 ---
+carence de celui-ci jours de la demande, le notaire avise les parties
+ 2 En cas de cession du droit de propriete de la carence de celui-ci
+dun lot entre vifs ou pour cause de mort le Sans prejudice de conventions contraires entre
+notaire instrumentant demande au syndic de parties concernant la contribution a la dette, le
+lassociation des coproprietaires, par lettre coproprietaire entrant supporte le montant des
+
+--- Chunk 192 ---
+recommandee a la poste, de lui transmettre dettes mentionnees a lalinea 1er, 1, 2, 3 et 4
+les informations et documents suivants : Les charges ordinaires sont supportees par le
+1 le montant des depenses de conservation, coproprietaire entrant a partir du jour ou il a joui
+dentretien, de reparation et de refection effectivement des parties communes
+decidees par lassemblee generale ou le syndic Toutefois, en cas de cession du droit de
+
+--- Chunk 193 ---
+avant la date certaine du transfert de la propriete propriete, le cessionnaire est tenu de payer les
+mais dont le paiement est demande par charges extraordinaires et les appels de fonds
+le syndic posterieurement a cette date; decides par lassemblee generale des coproprie-
+49
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 49 28/11/12 11:36
+taires, si celle-ci a eu lieu entre la conclusion de la Art. 577-11/1 Lors de la signature de lacte
+
+--- Chunk 194 ---
+convention et la passation de lacte authentique authentique, le notaire instrumentant doit
+et sil disposait dune procuration pour y assister retenir, sur le prix de la cession, les arrieres des
+ 3 En cas de cession ou de demembrement charges ordinaires et extraordinaires dus par le
+du droit de propriete sur un lot privatif, le notaire cedant Toutefois, le notaire instrumentant devra
+instrumentant informe le syndic de la date de la prealablement payer les creanciers privilegies,
+
+--- Chunk 195 ---
+passation de lacte, de lidentification du lot hypothecaires, ou ceux qui lui auraient notifie
+privatif concerne, de lidentite et de ladresse une saisie-arret ou une cession de creance
+actuelle et, le cas echeant, future des personnes Si le cedant conteste ces arrieres, le notaire
+concernees instrumentant en avise le syndic par lettre
+ 4 Les frais de transmission des informations recommandee a la poste envoyee dans les trois
+
+--- Chunk 196 ---
+requises en vertu des  1er et 2 sont a charge du jours ouvrables qui suivent la passation de lacte
+coproprietaire cedant authentique constatant la cession
+ 5 En cas de transmission de la propriete dun A defaut de saisie-arret conservatoire ou de
+lot : saisie arret-execution notifiee dans les vingt
+1 le coproprietaire sortant est creancier de jours ouvrables qui suivent la passation dudit
+lassociation des coproprietaires pour la partie acte, le notaire peut valablement payer le
+
+--- Chunk 197 ---
+de sa quote-part dans le fonds de roulement montant des arrieres au cedant
+correspondant a la periode durant laquelle il na Art. 577-11/2 Un coproprietaire peut, a sa
+pas joui effectivement des parties communes; demande, obtenir une traduction de tout
+le decompte est etabli par le syndic; document relatif a la copropriete emanant de
+2 sa quote-part dans le fonds de reserve lassociation des coproprietaires, si la traduction
+
+--- Chunk 198 ---
+demeure la propriete de lassociation visee doit etre effectuee dans la langue ou dans
+On entend par  fonds de roulement , la lune des langues de la region linguistique dans
+somme des avances faites par les coproprietaires, laquelle limmeuble ou le groupe dimmeubles
+a titre de provision, pour couvrir les depenses est situe
+periodiques telles que les frais de chauffage et Le syndic veille a ce que cette traduction soit
+
+--- Chunk 199 ---
+declairage des parties communes, les frais de mise a disposition dans un delai raisonnable
+gerance et de conciergerie Les frais de traduction sont a charge de
+On entend par  fonds de reserve , la somme lassociation des coproprietaires
+des apports de fonds periodiques destines a
+faire face a des depenses non periodiques, telles sous-section v. - De la dissolution et de la
+que celles occasionnees par le renouvellement liquidation
+
+--- Chunk 200 ---
+du systeme de chauffage, la reparation ou le Art. 577-12 Lassociation des coproprietaires
+renouvellement dun ascenseur ou la pose dune est dissoute des le moment ou cesse letat
+nouvelle chape de toiture dindivision, pour quelque cause que ce soit
+50
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 50 28/11/12 11:36
+La destruction, meme totale, de limmeuble ou des sommes et valeurs, revenant aux creanciers
+
+--- Chunk 201 ---
+du groupe dimmeubles batis nentraine pas, a ou aux coproprietaires et dont la remise na pu
+elle seule, la dissolution de lassociation leur etre faite
+Lassemblee generale des coproprietaires ne  5 Toutes actions contre des coproprietaires,
+peut dissoudre lassociation qua lunanimite des lassociation des coproprietaires, le syndic et les
+voix de tous les coproprietaires Cette decision liquidateurs se prescrivent par cinq ans, a
+
+--- Chunk 202 ---
+est constatee par acte authentique compter de la transcription prevue au  4
+Le juge prononce la dissolution de lassociation Art. 577-13/1 Les actes relatifs aux parties
+des coproprietaires, a la demande de tout communes qui sont transcrits a la conservation
+interesse pouvant faire etat dun juste motif des hypotheques conformement a larticle 1er,
+Art. 577-13  1 Lassociation des coproprie- alinea 1er, de la loi hypothecaire du 16 decembre
+
+--- Chunk 203 ---
+taires est, apres sa dissolution, reputee subsister 1851, le sont exclusivement sous le nom de
+pour sa liquidation lassociation des coproprietaires
+Toutes les pieces emanant dune association de
+coproprietaires dissoute mentionnent quelle est sous-section vi. - Du caractere imperatif
+en liquidation Art. 577-14. Les dispositions de la presente
+ 2 Pour autant quil nen soit pas dispose section sont imperatives
+autrement dans les statuts ou dans une Les dispositions statutaires non conformes a la
+
+--- Chunk 204 ---
+convention, lassemblee generale des coproprie- legislation en vigueur sont de plein droit
+taires determine le mode de liquidation et remplacees par les dispositions legales corres-
+designe un ou plusieurs liquidateurs pondantes a compter de leur entree en vigueur
+Si lassemblee generale reste en defaut de
+proceder a ces designations, le syndic est charge
+de liquider lassociation
+ 3 Les articles 186 a 188, 190 a 195,  1er, et 57
+du Code des societes sont applicables a la
+
+--- Chunk 205 ---
+du Code des societes sont applicables a la
+liquidation de lassociation des coproprietaires
+ 4 La cloture de la liquidation est constatee
+par acte notarie transcrit a la conservation des
+hypotheques
+Cet acte contient :
+1 lendroit designe par lassemblee generale,
+ou les livres et documents de lassociation des
+coproprietaires seront conserves pendant cinq
+ans au moins;
+2 les mesures prises en vue de la consignation
+51
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 51 28/11/12 11:36
+
+--- Chunk 206 ---
+Annexe 2 Les pieces justificatives doivent etre conservees,
+Arrete royal du 12 juillet 2012 fixant en original ou en copie, durant sept ans et etre
+un plan comptable minimum normalise classees methodiquement Ce delai est reduit
+pour les associations de coproprietaires a trois ans pour les pieces qui ne sont pas
+Art.1er. Toute copropriete de vingt lots appelees a faire preuve a legard de tiers
+ou plus a lexclusion des caves, des garages et Art. 5.  1er Les journaux et livres comptables
+
+--- Chunk 207 ---
+des parkings doit tenir une comptabilite faisant sont cotes; ils forment, chacun dans sa fonction,
+usage du plan comptable minimum normalise une serie continue; ils sont identifies par la
+annexe au present arrete specification de cette fonction, par leur place
+Art. 2. La comptabilite des associations de dans cette serie et par le nom de lassociation
+coproprietaires doit couvrir lensemble de leurs de coproprietaires
+
+--- Chunk 208 ---
+operations, de leurs avoirs et droits de toute  2 Les livres et journaux sont tenus de
+nature, de leurs dettes, obligations et engage- maniere a garantir leur continuite materielle
+ments de toute nature ainsi que la regularite et lirreversibilite des
+Art. 3. Toute comptabilite est tenue selon un ecritures
+systeme de livres et de comptes et conforme- Art. 6.  1er Les livres sont tenus par ordre de
+ment aux regles usuelles de la comptabilite en dates, sans blancs ni lacunes En cas de rectifica-
+
+--- Chunk 209 ---
+partie double tion, lecriture primitive doit rester lisible
+Les operations sont inscrites sans retard,  2 Les associations de coproprietaires sont
+de maniere fidele et complete et par ordre de tenues de conserver leurs livres pendant sept
+dates, soit dans un livre journal unique soit dans ans a partir du premier janvier de lannee qui suit
+un journal auxiliaire unique ou subdivise en leur cloture
+journaux specialises Elles sont methodiquement Art. 7.  1er Toute association de coproprie-
+
+--- Chunk 210 ---
+inscrites ou transposees dans les comptes taires procede, une fois lan au moins, avec
+quelles concernent bonne foi et prudence, aux operations de
+Les comptes sont definis dans un plan releve, de verification, dexamen et devaluation
+comptable approprie a lassociation de necessaires pour etablir a la date choisie un
+coproprietaires Ce plan comptable est tenu inventaire complet de ses avoirs et droits de
+en permanence tant au siege de lassociation toute nature, de ses dettes, obligations et
+
+--- Chunk 211 ---
+de coproprietaires quaux sieges des services engagements de toute nature relatifs a la
+comptables importants de lassociation de copropriete ainsi quaux moyens propres
+coproprietaires, a la disposition de ceux qui sont quelle y a affectes Les pieces de linventaire
+concernes par lui sont transcrites dans un livre Les pieces
+Art. 4. Toute ecriture sappuie sur une piece dont le volume rend la transcription difficile
+
+--- Chunk 212 ---
+justificative datee et porte un indice de reference sont resumees dans le livre auquel elles sont
+a celle-ci annexees
+52
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 52 28/11/12 11:36
+ 2 Linventaire est ordonne de la meme Annexe
+maniere que le plan comptable de lassociation PLAN COMPTABLE
+de coproprietaires 1 Dettes a plus dun an
+Art. 8. Les comptes du plan comptable qui 17 Dettes a plus dun an
+ne presentent pas dutilite pour une association 170 Emprunts subordonnes
+
+--- Chunk 213 ---
+de coproprietaires ne doivent pas figurer dans 171 Emprunts obligataires non subordonnes
+le plan comptable 172 Dettes de location-financement
+Art. 9. Les articles 25,  1er et 2, 31, 32, 33, 173 Etablissements de credit
+alinea 1er, premiere phrase et alinea 2, premiere 1730 Dettes en compte
+phrase, 42, 45, 46, 49, 67, 68, 73, 74, 75 et 77 1731 Promesses
+de larrete royal du 30 janvier 2001 portant 1732 Credits dacceptation
+execution du Code des societes sont applicables 174 Autres emprunts
+
+--- Chunk 214 ---
+a la comptabilite des coproprietaires, etant 175 Dettes commerciales
+entendu quil faut y lire  inventaire  au lieu de  179 Dettes diverses
+comptes annuels  et  association des coproprie-
+taires  au lieu de  societe  2 Immobilisations et cautionnements
+Art. 10. Les elements de lactif sont evalues a 21 Immobilisation incorporelles (1)
+leur valeur dacquisition et sont portes au plan 211 Concessions, brevets, licences, savoir-faire,
+
+--- Chunk 215 ---
+comptable pour cette meme valeur, deduction marques et droits similaires
+faite des amortissements et reductions de 213 Acomptes verses
+valeurs y afferents 23 Installations, machines et outillage(1)
+Par valeur dacquisition, il faut entendre le prix 24 Mobilier et materiel roulant(1)
+dachat, eventuellement majore des frais 25 Immobilisations detenues en location-finan-
+accessoires tels que les impots non recuperables cement
+et les frais de transport 251 Installations, machines et outillage(1)
+
+--- Chunk 216 ---
+Art. 11. Le present arrete est applicable aux 252 Mobilier et materiel roulant
+exercices comptables qui debutent a compter 26 Autres immobilisations corporelles(1)
+du 1er janvier 2013 28 Cautionnements verses
+Art. 12. Notre Ministre de la Justice est charge
+de lexecution du present arrete
+Donne a Bruxelles, le 12 juillet 2012
+ALBERT
+1 Ce compte ou ses subdivisions prevues au plan comptable
+Par le Roi : de lassociation des coproprietaires font lobjet de sous-
+
+--- Chunk 217 ---
+La Ministre de la Justice, comptes relatifs :
+1 a la valeur dacquisition;
+Mme A TURTELBOOM 2 aux amortissements ou reductions de valeur actes,
+portant respectivement les chiffres 0 et 9 comme dernier
+chiffre de lindice du sous-compte
+53
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 53 28/11/12 11:36
+4 Creances et dettes a un an au plus 444 Factures a recevoir(4)
+41 Creances 45 Dettes fiscales, salariales et sociales
+410 Capital appele 450 Dettes fiscales estimees
+
+--- Chunk 218 ---
+410 Capital appele 450 Dettes fiscales estimees
+4100 Acompte de fonds de reserve appele 452 Impots et taxes a payer
+4101 Acompte de fonds de roulement appele 453 Precomptes retenus
+416 Creances diverses 454 Office national de la securite sociale
+417 Creances douteuses 455 Remunerations
+419 Reductions de valeur actees (-) 456 Pecules de vacances
+42 Dettes a plus dun an echeant dans lannee(2) 459 Autres dettes sociales
+420 Emprunts subordonnes 48 Dettes diverses
+
+--- Chunk 219 ---
+420 Emprunts subordonnes 48 Dettes diverses
+421 Emprunts obligataires non subordonnes 489 Dettes : valeurs reportees(5)
+422 Dettes de location-financement et 49 Comptes de regularisation
+assimilees 490 Charges a reporter
+423 Etablissements de credit 491 Produits acquis
+1730 Dettes en compte 492 Charges a imputer
+1731 Promesses 493 Produits a reporter
+1732 Credits dacceptation 499 Comptes dattente
+424 Autres emprunts
+425 Dettes commerciales 5 Placements de tresorerie et valeurs
+
+--- Chunk 220 ---
+429 Dettes diverses disponibles
+43 Dettes financieres 53 Depots a terme
+430 Etablissements de credit - Emprunts en 530 De plus dun an
+compte a terme fixe 531 De plus dun mois et a un an au plus
+431 Etablissements de credit - Promesses 532 Dun mois au plus
+432 Etablissements de credit - Credits 539 Reductions de valeur actees (-)
+dacceptation 55 Etablissements de credit
+433 Etablissements de credit - Dettes en 550 Fonds de reserve(6)
+compte courant(3)
+439 Autres emprunts
+
+--- Chunk 221 ---
+compte courant(3)
+439 Autres emprunts
+4 Les factures a recevoir peuvent egalement faire lobjet
+44 Dettes commerciales
+dune subdivision du compte  440 Fournisseurs  ou etre
+440 Fournisseurs rattachees aux comptes des fournisseurs
+5 Les factures a recevoir peuvent egalement faire lobjet
+dune subdivision du compte  440 Fournisseurs  ou etre
+2 Le transfert a ces comptes des dettes a plus dun an ou rattachees aux comptes des fournisseurs
+
+--- Chunk 222 ---
+de la partie des dettes echeant dans lannee ne doit etre 6 En cas de valeurs excedentaires en fin dexercice, ce solde
+opere quen fin dexercice est transfere au compte  489 Valeurs reportees  via le
+3 Ce compte nest normalement alimente quen fin dexer- compte  693 Valeurs a reporter  Ce compte doit faire
+cice Lecriture inverse est passee au debut de la periode lobjet dune ecriture inverse en debut dexercice avec le
+suivante compte 700 et/ou 701
+54
+
+--- Chunk 223 ---
+suivante compte 700 et/ou 701
+54
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 54 28/11/12 11:36
+551 Fonds de roulement(7) 6102 Installations electriques
+552 Autres comptes(7) 61020 Controle installations electriques
+57 Caisses 61021 Contrats dentretien
+58 Virements internes 61022 Autre entretien installations electriques
+61023 Entretien sonnettes et parlophones/
+6 Charges videophones
+61 Services et biens divers 61024 Renovation installations electriques
+
+--- Chunk 224 ---
+610 Entretien et petites reparations 61025 Groupes auxiliaires
+de batiment, jardin et environs 61026 Air conditionne et traitement de lair
+6100 Protection anti-incendie 61027 Extracteurs dair et de fumee
+61000 Contrats dentretien 61028 Videosurveillance
+61001 Extincteurs dincendie 61029 Autres
+61002 Collecteurs dincendie 6103 Sanitaires et chauffage
+61003 Lutte anti-incendie autres 61030 Controle des installations
+61004 Alerte incendie et detection incendie 61031 Contrats dentretien
+
+--- Chunk 225 ---
+61005 Prevention incendie 61032 Autre entretien installations de
+61006 Entretien escaliers de secours/voies chauffage
+devacuation/coupoles devacuation de 61033 Autre entretien surpresseur deau
+fumee 61034 Autre entretien adoucisseur deau et
+61007 Signalisation de securite/eclairage de traitement de leau
+secours 61035 Autre entretien conduites de chauffage
+61008 Protection contre la foudre 61036 Autre entretien conduites deau
+61009 Autres 61037 Autre entretien evacuation, egouts et
+
+--- Chunk 226 ---
+6101 Ascenseurs installations de pompage
+61010 Controle ascenseurs 61038 Compteurs et releve des compteurs
+61011 Contrat dentretien ascenseurs 61039 Autres
+61012 Entretien et reparations ascenseurs non 6104 Menuiseries
+compris dans contrat dentretien 61040 Contrats dentretien
+61013 Telephone durgence ascenseurs 61041 Entretien porte de garage
+61014 Travaux dadaptation ascenseurs 61042 Entretien menuiseries externes
+61015 Autres charges ascenseurs 61043 Entretien menuiseries internes
+
+--- Chunk 227 ---
+61044 Balustrades et cloisons de separation
+des terrasses
+7 Si un compte courant presente en fin dexercice un solde 61045 Autres
+en faveur de letablissement de credit, ce solde est nor-
+malement transfere a cette date au compte  433 Etablis- 6105 N ettoyage et traitement des ordures
+sements de credit - Dettes en compte courant  Lecriture menageres
+inverse est passee au debut de la periode suivante
+55
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 55 28/11/12 11:36
+
+--- Chunk 228 ---
+61050 Nettoyage batiment selon contrat 6108 Piscine
+61051 Nettoyage batiment autres 61080 Controles
+61052 Produits dentretien nettoyage 61081 Contrat dentretien
+61053 Materiel nettoyage 61082 Autre entretien piscine/installations
+61054 Ordures menageres/PMC/papier et verre techniques
+selon contrat 61083 Fourniture produits
+61055 Ordures menageres/PMC/papier et verre 61084 Surveillance
+autres 61085 Reparations piscine/installations
+61056 Produits ordures menageres/PMC/ techniques
+
+--- Chunk 229 ---
+61056 Produits ordures menageres/PMC/ techniques
+papier et verre 61086 Autres
+61057 Controles 6109 Divers
+61058 Autres 61090 Contrats dentretien
+6106 Jardins, parkings et chemins 61091 Charges blanchisserie
+61060 Entretien jardins et environs immediats 61092 Charges recreatives (plaines de jeux,
+selon contrat tennis, fitness, billard,)
+61061 Autre entretien jardins et environs 61093 Controle et surveillance
+immediats 611 Travaux de renovation et autres travaux
+
+--- Chunk 230 ---
+61062 Amenagement jardins et environs exceptionnels
+immediats 6110 Frais detudes et surveillance
+61063 Entretien parkings, chemins et environs 6111 Renovation
+immediats selon contrat 6112 Travaux de transformation
+61064 Autre entretien parkings, chemins et 6113 Travaux dextension
+environs immediats 612 Fournitures a lassociation
+61065 Travaux de renovation parkings, 6120 Eau
+chemins et environs immediats 61200 Redevance fixe et consommation
+61066 Travaux divers 61201 Eau parties communes
+
+--- Chunk 231 ---
+61066 Travaux divers 61201 Eau parties communes
+6107 Entretien batiments 61202 Sel pour adoucisseur deau
+61070 Entretien fondations 61203 Autres fournitures pour adoucisseur
+61071 Entretien facades deau
+61072 Entretien terrasses 61204 Fournitures pour traitement de leau
+61073 Entretien toits 61205 Autres
+61074 Entretien cheminees et canaux de 6121 Electricite
+ventilation 61210 Electricite parties communes
+61075 Entretien caves 61211 Electricite ascenseurs
+
+--- Chunk 232 ---
+61076 Travaux dentretien hall, cages desca- 61212 Electricite chauffage et sanitaires
+liers, couloirs 61213 Autres
+56
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 56 28/11/12 11:36
+6122 Gaz 6145 Responsabilite professionnelle syndic non
+61220 Redevance fixe et consommation professionnel
+61221 Autres 6146 Assistance judiciaire
+6123 Mazout 6147 Franchise
+61230 Controles cuves 6148 Autres
+61231 Entretiens cuves 615 Conciergerie
+
+--- Chunk 233 ---
+61231 Entretiens cuves 615 Conciergerie
+61232 Livraisons mazout 6150 Telephone - Internet - gsm
+6124 Autres services collectifs 6151 Electricite
+61240 Cablodistribution 6152 Eau
+6125 Autres fournitures 6153 Gaz
+613 Honoraires, charges membres du conseil et 6154 Chauffage
+charges commissaire interne aux comptes 6155 Teledistribution
+6130 Honoraires 6156 Charges
+61300 Honoraires syndics 6157 Entretien
+61301 Honoraires avocats 6158 Autres
+
+--- Chunk 234 ---
+61301 Honoraires avocats 6158 Autres
+61302 Honoraires architectes/ingenieurs 616 Frais dadministration et de gestion
+61303 Honoraires experts 6160 Frais dadministration syndic
+61304 Honoraires commissaire externe aux 61600 Bureau et materiel de bureau
+comptes 61601 Timbres
+61305 Autres honoraires 61602 Telephone
+6131 Charges membres du conseil (conseil de 61603 Autres
+copropriete) et commissaire interne aux 6161 Frais reunions
+comptes 61610 Utilisation salles de reunion
+
+--- Chunk 235 ---
+comptes 61610 Utilisation salles de reunion
+61310 Indemnites membres du conseil interne 61611 Consommations reunions
+et commissaire interne aux comptes 61612 Autres
+61311 Frais de deplacement membres du 6162 Traductions
+conseil interne et commissaire interne 61620 Traduction simultanee reunions
+aux comptes 61621 Traduction documents
+61312 Autres charges conseil de copropriete 6163 Frais de procedure
+614 Assurances 61630 Frais de procedure recouvrement
+
+--- Chunk 236 ---
+6140 Assurance incendie arrieres coproprietaires
+6141 Responsabilite civile 61631 Autres frais de procedure
+6142 Assurance accidents du travail 6164 Publications et modification des statuts
+6143 Assurance volontaires 61640 Publication nomination syndic
+6144 Assurance membres du conseil interne et 61641 Modification des statuts
+commissaire aux comptes 6165 Frais transfert de propriete
+57
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 57 28/11/12 11:36
+
+--- Chunk 237 ---
+61650 Attestations article 577-11 Code civil 6302 Dotations aux amortissements sur
+61651 Autres immobilisations corporelles
+6166 Frais divers gestion 634 Reductions de valeur sur creances a un an
+61660 Communication dinformations sur au plus
+Internet 6340 Dotations
+61661 Frais daccession a la propriete 6341 Reprises (1)
+61662 Frais archives 64 Autres charges
+61663 Autres frais gestion 640 Taxes et redevances
+62 Remunerations, charges sociales et 641 Moins-values sur la realisation des creances
+
+--- Chunk 238 ---
+pensions 642 Charges diverses
+620 Remunerations et avantages sociaux 65 Charges financieres
+directs 650 Frais bancaires et charges des dettes
+621 Cotisations patronales pour assurances 657 Charges financieres diverses
+sociales 66 Charges exceptionnelles
+622 Primes patronales pour assurances 69 Valeurs a reporter
+extralegales 693 Valeurs a reporter
+623 Autres frais de personnel
+624 Pensions de retraite et de survie 7 Produits
+63 Amortissements et reductions de valeur 70 Acomptes
+
+--- Chunk 239 ---
+630 Dotations aux amortissements sur 700 Acomptes fonds de reserve
+immobilisations 701 Acomptes fonds de roulement
+6301 Dotations aux amortissements sur 75 Produits financiers
+immobilisations incorporelles 76 Produits exceptionnels
+58
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 58 28/11/12 11:36
+Annexe 3 a laquelle ils sont arretes par lorgane dadminis-
+Articles pertinents de larrete royal du tration de la societe
+30 janvier 2001 portant execution du code (...)
+
+--- Chunk 240 ---
+30 janvier 2001 portant execution du code (...)
+des societes (voir article 9 de lAr du Il doit etre tenu compte des charges et
+12 juillet 2012) produits afferents a lexercice ou a des exercices
+anterieurs, sans consideration de la date de
+Art. 25.  1 Les comptes annuels doivent paiement ou dencaissement de ces charges et
+etre etablis avec clarte et indiquer systematique- produits, sauf si lencaissement effectif de ces
+ment dune part, a la date de cloture de produits est incertain
+
+--- Chunk 241 ---
+lexercice, la nature et le montant des avoirs
+et droits de la societe, de ses dettes, obligations Art. 42. Par derogation aux articles 31, 35, 47,
+et engagements ainsi que de ses moyens propres 52, 56, 68, 69, 70, 71, 72 et 74, le petit outillage,
+et, dautre part, pour lexercice cloture a cette ainsi que les approvisionnements, qui sont
+date, la nature et le montant de ses charges constamment renouveles et dont la valeur
+et de ses produits dacquisition est negligeable par rapport a
+
+--- Chunk 242 ---
+2 Toute compensation entre des avoirs lensemble du bilan, peuvent etre portes a lactif
+et des dettes, entre des droits et des engage- pour une valeur fixe si leur quantite, leur valeur
+ments, entre des charges et des produits et leur composition ne varient pas sensiblement
+est interdite, sauf les cas prevus par le present dun exercice a lautre Dans ce cas, le prix du
+titre renouvellement de ces elements est porte sous
+les charges dexploitation
+Art. 31. Chaque element du patrimoine fait
+
+--- Chunk 243 ---
+Art. 31. Chaque element du patrimoine fait
+lobjet dune evaluation distincte Art. 45. Par  amortissements  on entend les
+montants pris en charge par le compte de
+Art. 32. Les evaluations doivent repondre resultats, relatifs aux frais detablissement et aux
+aux criteres de prudence, de sincerite et de immobilisations incorporelles et corporelles
+bonne foi dont lutilisation est limitee dans le temps, en
+vue soit de repartir le montant de ces frais
+
+--- Chunk 244 ---
+vue soit de repartir le montant de ces frais
+Art. 33. Il doit etre tenu compte de tous detablissement et le cout dacquisition,
+les risques previsibles, des pertes eventuelles eventuellement reevalue, de ces immobilisations
+et des depreciations qui ont pris naissance sur leur duree dutilite ou dutilisation probable,
+au cours de lexercice auquel les comptes soit de prendre en charge ces frais et ces couts
+annuels se rapportent ou au cours dexercices au moment ou ils sont exposes
+
+--- Chunk 245 ---
+anterieurs, meme si ces risques, pertes ou Par  reductions de valeur  on entend les
+depreciations ne sont connus quentre la date abattements apportes au prix dacquisition des
+de cloture des comptes annuels et la date elements de lactif autres que ceux vises a
+59
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 59 28/11/12 11:36
+lalinea precedent, et destines a tenir compte 1 sont remboursables a une date eloignee
+
+--- Chunk 246 ---
+de la depreciation, definitive ou non, de ces de plus dun an, a compter de leur entree dans
+derniers a la date de cloture de lexercice le patrimoine de la societe, et
+Les amortissements et les reductions de valeur 2 sont afferentes soit a des montants actes
+cumules sont deduits des postes de lactif en tant que produits au compte de resultats,
+auxquels ils sont afferents soit au prix de cession dimmobilisations ou
+de branches dactivites
+
+--- Chunk 247 ---
+de branches dactivites
+Art. 46. Les amortissements et les reductions Lescompte vise sous c) est calcule au taux
+de valeur doivent repondre aux criteres de du marche applicable a de telles creances au
+prudence, de sincerite et de bonne foi moment de leur entree dans le patrimoine
+de la societe
+Art. 49. Les reductions de valeur ne peuvent Pour les creances payables ou remboursables
+etre maintenues dans la mesure ou elles par versements echelonnes, dont le taux
+
+--- Chunk 248 ---
+excedent en fin dexercice une appreciation dinteret ou de chargement sapplique durant
+actuelle, selon les criteres prevus a larticle 46, toute la duree du contrat sur le montant initial
+des depreciations en consideration desquelles du financement ou du pret, les montants
+elles ont ete constituees respectifs des interets et chargements courus
+a prendre en resultats et des interets et
+Art. 67.  1 Sans prejudice aux dispositions chargements non courus a reporter sont
+
+--- Chunk 249 ---
+du  2 du present article et des articles 68 et 73, determines par application du taux reel au solde
+les creances sont portees au bilan a leur valeur restant du en debut de chaque periode; ce taux
+nominale reel est calcule compte tenu de lechelonnement
+ 2 Linscription au bilan des creances a et de la periodicite des versements Une autre
+leur valeur nominale saccompagne de linscrip- methode ne peut etre appliquee que pour
+
+--- Chunk 250 ---
+tion en comptes de regularisation du passif autant quelle donne, par exercice social, des
+et de la prise en resultats pro rata temporis resultats equivalents
+sur la base des interets composes : Les interets et chargements ne peuvent etre
+a) des interets inclus conventionnellement compenses avec les frais, charges et commis-
+dans la valeur nominale des creances; sions exposes a loccasion de ces operations
+b) de la difference entre la valeur dacquisition
+
+--- Chunk 251 ---
+b) de la difference entre la valeur dacquisition
+et la valeur nominale des creances; Art. 68. Les creances a plus dun an et a un an
+c) de lescompte de creances qui ne sont au plus font lobjet de reductions de valeur si
+pas productives dinteret ou qui sont assorties leur remboursement a lecheance est en tout
+dun interet anormalement faible, lorsque ou en partie incertain ou compromis Elles
+ces creances : peuvent egalement faire lobjet de reductions
+60
+
+--- Chunk 252 ---
+60
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 60 28/11/12 11:36
+de valeur lorsque leur valeur de realisation la prise en resultat du rendement actuariel
+a la date de cloture de lexercice est inferieure des titres naurait quun effet negligeable
+a leur valeur comptable determinee conforme- par rapport a la prise en resultat du seul
+ment a larticle 67 rendement facial
+Les alineas 1 et 2 sont applicables aux titres
+
+--- Chunk 253 ---
+Les alineas 1 et 2 sont applicables aux titres
+Art. 73. Les titres a revenu fixe sont evalues dont le rendement est constitue exclusivement,
+a leur valeur dacquisition Toutefois, lorsque dapres les conditions demission, par la
+leur rendement actuariel calcule a lachat en difference entre le prix demission et la valeur
+tenant compte de leur valeur de remboursement de remboursement
+a lecheance, differe de leur rendement facial,
+
+--- Chunk 254 ---
+a lecheance, differe de leur rendement facial,
+la difference entre la valeur dacquisition Art. 74. Les placements de tresorerie et les
+et la valeur de remboursement est prise en valeurs disponibles font lobjet de reductions de
+resultat pro rata temporis sur la duree restant valeur lorsque leur valeur de realisation a la date
+a courir des titres, comme element constitutif de cloture de lexercice est inferieure a leur
+des interets produits par ces titres et est portee, valeur dacquisition
+
+--- Chunk 255 ---
+selon le cas, en majoration ou en reduction
+de la valeur dacquisition des titres Art. 75. Des reductions de valeur complemen-
+La prise en resultats de cette difference taires sont actees sur les placements de
+est effectuee sur base actualisee, compte tenu tresorerie et les valeurs disponibles pour tenir
+du rendement actuariel a lachat compte soit de levolution de leur valeur de
+Les societes ont toutefois la faculte : realisation ou de marche, soit des aleas justifies
+
+--- Chunk 256 ---
+1 de prendre en resultats, pro rata temporis, par la nature des avoirs en cause ou de lactivite
+mais sur une base lineaire, la difference entre a exercee
+valeur dacquisition et la valeur de rembourse-
+ment; Art. 77. Les articles 67 et 73 sont dapplication
+2 de maintenir au bilan les titres a revenu analogue aux dettes de nature et de duree
+fixe a leur valeur dacquisition lorsque correspondantes
+61
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 61 28/11/12 11:36
+
+--- Chunk 257 ---
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 62 28/11/12 11:36
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 63 28/11/12 11:36
+Service Communication
+Boulevard de Waterloo 115
+1000 Bruxelles
+Tel : 02 542 65 11
+wwwjusticebelgiumbe
+EROLF
+D
+: ELBASNOPSER
+RUETIDE
+489/RF/1597/2102/D
+SELLExURB
+0001-
+511
+OOLRETAW
+ED
+DB
+1210043  CBN Brochure voor mede-eigenaars 148X210_FR_CS5.indd 64 28/11/12 11:36
